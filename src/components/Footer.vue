@@ -14,8 +14,8 @@ const toggleLocales = () => {
   <footer class="w-full bg-white dark:bg-gray-900">
     <div class="container mx-auto max-w-xl h-full flex flex-wrap md:flex-no-wrap justify-between items-start text-sm p-6 pt-8 pb-4">
         
-        <div class="text-lg px-2 mb-12">
-          <h2 class="text-xl font-semibold mb-4 text-left">
+        <div class="text-lg px-2 mb-12 mx-auto md:mx-0">
+          <h2 class="text-xl font-semibold mb-4 text-center md:text-left">
             Contact
           </h2>
           <div class="flex items-center my-3">
@@ -33,7 +33,7 @@ const toggleLocales = () => {
           </div>
         </div>
 
-        <div class="text-lg px-2 mb-12">
+        <div class="text-lg px-2 mb-12 mx-auto md:mx-0">
           <h2 class="text-xl font-semibold mb-4">
             On the Web
           </h2>

@@ -1,12 +1,12 @@
 <template>
-  <div class="container mx-auto max-w-screen-xl m-20" >
+  <div class="container mx-auto max-w-screen-xl mb-20 md:mt-20">
     <main
       id="wrapper"
       class="flex flex-col sm:flex-row-reverse sm:m-12 shadow-2xl shadow-black-500/40 dark:shadow-none"
     >
       <div
         id="sidebar"
-        class="w-full sm:max-w-sm p-8 bg-gradient-to-b from-slate-300 via-slate-100 to-white dark:from-white dark:to-slate-300 dark:text-slate-700"
+        class="w-full sm:max-w-sm p-8 bg-gradient-to-b from-slate-300 via-slate-100 to-white dark:from-white dark:to-slate-300 dark:text-slate-700 pt-15"
       >
         <div class="px-2 mb-12">
           <img
