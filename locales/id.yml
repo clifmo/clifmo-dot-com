@@ -1,17 +1,35 @@
 button:
   about: Tentang
   back: Kembali
+  contact_me: Lihat latar belakang dan keterampilan saya
   go: Pergi
   home: Beranda
   toggle_dark: Ubah ke mode gelap
   toggle_langs: Ubah bahasa
-  contact_me: Lihat latar belakang dan keterampilan saya
+footer:
+  contact: Kontak
+  on-the-web: Di web
+  portfolio: Portofolio
+hero:
+  heading: Saya dalam 10 Detik
+  sentence-1: >-
+    Saya mengelola insinyur Otomasi Uji menggunakan Katalon Studio dengan Azure
+    Pipelines.
+  sentence-2: >-
+    Saya telah menjadi pengrajin Laravel, insinyur .NET, dan ninja WooCommerce,
+    dan pengembang Drupal.
+  sentence-3: >-
+    Saya penduduk asli Florida, Florida Gator seumur hidup, dan karyawan RL
+    Carriers yang bangga.
+  sentence-4: >-
+    Saya telah bekerja untuk mempromosikan kesadaran korban DUI, memecahkan
+    tunawisma hewan peliharaan, dan mendapatkan waktu di studio yoga.
 intro:
+  aka: Juga diketahui sebagai
   desc: Template awal vite
   dynamic-route: Contoh rute dinamik
   hi: Halo, {name}!
-  aka: Juga diketahui sebagai
   whats-your-name: Siapa nama anda?
-not-found: Tidak ditemukan
 nav:
   sw_engineer: Insinyur Perangkat Lunak
+not-found: Tidak ditemukan

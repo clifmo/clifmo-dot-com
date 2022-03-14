@@ -1,17 +1,35 @@
 button:
   about: Über
   back: Zurück
+  contact_me: Ver mis antecedentes y habilidades
   go: Los
   home: Startseite
   toggle_dark: Dunkelmodus umschalten
   toggle_langs: Sprachen ändern
-  contact_me: Ver mis antecedentes y habilidades
+footer:
+  contact: Kontakt
+  on-the-web: Im Internet
+  portfolio: Portfolio
+hero:
+  heading: Ich in 10 Sekunden
+  sentence-1: >-
+    Ich verwalte Testautomatisierungsingenieure mit Katalon Studio mit Azure
+    Pipelines.
+  sentence-2: >-
+    Ich war Laravel-Handwerker, .NET-Ingenieur, WooCommerce-Ninja und
+    Drupal-Entwickler.
+  sentence-3: >-
+    Ich bin ein gebürtiger Floridaer, ein lebenslanger Florida Gator und ein
+    stolzer Angestellter von R L Carriers.
+  sentence-4: >-
+    Ich habe daran gearbeitet, das Bewusstsein für DUI-Opfer zu fördern, die
+    Obdachlosigkeit von Haustieren zu lösen und Zeit im Yogastudio zu verdienen.
 intro:
+  aka: Auch bekannt als
   desc: Vite Startvorlage mit Vorlieben
   dynamic-route: Demo einer dynamischen Route
   hi: Hi, {name}!
-  aka: Auch bekannt als
   whats-your-name: Wie heißt du?
-not-found: Nicht gefunden
 nav:
   sw_engineer: Anwendungsentwickler
+not-found: Nicht gefunden

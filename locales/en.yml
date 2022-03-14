@@ -1,17 +1,35 @@
 button:
   about: About
   back: Back
+  contact_me: See my background & skills
   go: GO
   home: Home
   toggle_dark: Toggle dark mode
   toggle_langs: Change languages
-  contact_me: See my background & skills
+footer:
+  contact: Contact
+  on-the-web: On the Web
+  portfolio: Portfolio
+hero:
+  heading: Me in 10 Seconds
+  sentence-1: >-
+    I manage Test Automation engineers using Katalon Studio with Azure
+    Pipelines.
+  sentence-2: >-
+    I've been a Laravel artisan, a .NET engineer, and WooCommerce ninja, and
+    Drupal developer.
+  sentence-3: >-
+    I'm a Florida native, a life-long Florida Gator, and a proud employee of R+L
+    Carriers.
+  sentence-4: >-
+    I've worked to promote DUI victim awareness, solve pet homelessness, and
+    earn time in the yoga studio.
 intro:
+  aka: Also known as
   desc: Opinionated Vite Starter Template
   dynamic-route: Demo of dynamic route
   hi: Hi, {name}!
-  aka: Also known as
   whats-your-name: What's your name?
-not-found: Not found
 nav:
   sw_engineer: Software Engineer
+not-found: Not found

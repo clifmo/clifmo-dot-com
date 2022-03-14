@@ -1,17 +1,36 @@
 button:
   about: O nas
   back: Wróć
+  contact_me: Zobacz moje pochodzenie i umiejętności
   go: WEJDŹ
   home: Strona główna
   toggle_dark: Ustaw tryb nocny
   toggle_langs: Zmień język
-  contact_me: Zobacz moje pochodzenie i umiejętności
+footer:
+  contact: Kontakt
+  on-the-web: W Internecie
+  portfolio: Teczka
+hero:
+  heading: Ja w 10 sekund
+  sentence-1: >-
+    Zarządzam inżynierami Test Automation używając Katalon Studio z Azure
+    Pipelines.
+  sentence-2: >-
+    Byłem rzemieślnikiem Laravela, inżynierem .NET, ninja WooCommerce i
+    programistą Drupal.
+  sentence-3: >-
+    Pochodzę z Florydy, przez całe życie mieszkam na Florydzie Gator i jestem
+    dumnym pracownikiem RL Carriers.
+  sentence-4: >-
+    Pracowałem nad promowaniem świadomości ofiar pod wpływem alkoholu,
+    rozwiązywaniem problemu bezdomności zwierząt i zarabianiem czasu w studio
+    jogi.
 intro:
+  aka: Znany też jako
   desc: Opiniowany szablon startowy Vite
   dynamic-route: Demonstracja dynamicznego route
   hi: Cześć, {name}!
-  aka: Znany też jako
   whats-your-name: Jak masz na imię?
-not-found: Nie znaleziono
 nav:
   sw_engineer: Inżynier oprogramowania
+not-found: Nie znaleziono

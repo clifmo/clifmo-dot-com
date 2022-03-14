@@ -1,16 +1,35 @@
 button:
   about: Về
   back: Quay lại
+  contact_me: Xem nền tảng và kỹ năng của tôi
   go: Đi
   home: Khởi đầu
   toggle_dark: Chuyển đổi chế độ tối
   toggle_langs: Thay đổi ngôn ngữ
-  contact_me: Xem nền tảng và kỹ năng của tôi
+footer:
+  contact: Tiếp xúc
+  on-the-web: Trên trang web
+  portfolio: Danh mục đầu tư
+hero:
+  heading: Tôi sau 10 giây
+  sentence-1: >-
+    Tôi quản lý các kỹ sư Tự động hóa kiểm tra bằng cách sử dụng Katalon Studio
+    với Azure Pipelines.
+  sentence-2: >-
+    Tôi đã từng là một nghệ nhân Laravel, một kỹ sư .NET, ninja WooCommerce và
+    nhà phát triển Drupal.
+  sentence-3: >-
+    Tôi là người gốc Florida, sống ở Florida Gator và là một nhân viên tự hào
+    của R L Carriers.
+  sentence-4: >-
+    Tôi đã làm việc để thúc đẩy nhận thức của nạn nhân DUI, giải quyết tình
+    trạng vô gia cư của thú cưng và kiếm thời gian trong phòng tập yoga.
 intro:
+  aka: Cũng được biết đến như là
   desc: Ý kiến cá nhân Vite Template để bắt đầu
   dynamic-route: Bản giới thiệu về dynamic route
   hi: Hi, {name}!
   whats-your-name: Tên bạn là gì?
-not-found: Không tìm thấy
 nav:
   sw_engineer: Kỹ sư phần mềm
+not-found: Không tìm thấy

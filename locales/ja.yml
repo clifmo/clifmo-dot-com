@@ -1,16 +1,27 @@
 button:
   about: これは？
   back: 戻る
+  contact_me: 私の経歴とスキルを見る
   go: 進む
   home: ホーム
   toggle_dark: ダークモード切り替え
   toggle_langs: 言語切り替え
-  contact_me: 私の経歴とスキルを見る
+footer:
+  contact: 連絡先
+  on-the-web: ウェブ上で
+  portfolio: ポートフォリオ
+hero:
+  heading: 10秒で私
+  sentence-1: 私は、AzurePipelinesでKatalonStudioを使用してテスト自動化エンジニアを管理しています。
+  sentence-2: 私はLaravelの職人、.NETエンジニア、WooCommerceの忍者、そしてDrupalの開発者です。
+  sentence-3: 私はフロリダ出身で、生涯フロリダゲーターズであり、RLキャリアの誇り高い従業員です。
+  sentence-4: 私は飲酒運転の被害者の意識を高め、ペットのホームレスを解決し、ヨガスタジオで時間を稼ぐために働いてきました。
 intro:
+  aka: としても知られている
   desc: 固執された Vite スターターテンプレート
   dynamic-route: 動的ルートのデモ
   hi: こんにちは、{name}!
   whats-your-name: 君の名は。
-not-found: 見つかりませんでした
 nav:
   sw_engineer: ソフトウェアエンジニア
+not-found: 見つかりませんでした

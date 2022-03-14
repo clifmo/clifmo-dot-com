@@ -1,17 +1,36 @@
 button:
   about: À propos de
   back: Retour
+  contact_me: Voir mon parcours et mes compétences
   go: Essayer
   home: Accueil
   toggle_dark: Basculer en mode sombre
   toggle_langs: Changer de langue
-  contact_me: Voir mon parcours et mes compétences
+footer:
+  contact: Contact
+  on-the-web: Sur le Web
+  portfolio: Portefeuille
+hero:
+  heading: Moi en 10 secondes
+  sentence-1: >-
+    Je gère les ingénieurs Test Automation en utilisant Katalon Studio avec
+    Azure Pipelines.
+  sentence-2: >-
+    J'ai été un artisan Laravel, un ingénieur .NET, un ninja WooCommerce et un
+    développeur Drupal.
+  sentence-3: >-
+    Je suis originaire de Floride, un Florida Gator de longue date et un fier
+    employé de R L Carriers.
+  sentence-4: >-
+    J'ai travaillé pour promouvoir la sensibilisation aux victimes de DUI,
+    résoudre l'itinérance des animaux de compagnie et gagner du temps dans le
+    studio de yoga.
 intro:
+  aka: Aussi connu sous le nom de
   desc: Exemple d'application Vite
   dynamic-route: Démo de route dynamique
   hi: Salut, {name}!
-  aka: Aussi connu sous le nom de
   whats-your-name: Comment t'appelles-tu ?
-not-found: Page non trouvée
 nav:
   sw_engineer: Ingénieur logiciel
+not-found: Page non trouvée

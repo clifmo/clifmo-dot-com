@@ -10,22 +10,22 @@ const { t } = useI18n()
       </div>
       <div class="w-full md:w-2/3 text-center md:text-left md:pr-4">
         <h1 class="text-center md:text-left text-2xl md:text-4xl text-grey-darkest mb-6">
-          Me in 10 Seconds
+          {{ t('hero.heading') }}
         </h1>
         <p class="md:text-left text-sm md:text-md text-grey-dark leading-normal mb-6 md:mb-3">
-          I've been an <a href="https://azure.microsoft.com/en-us/services/devops/pipelines/" title="Microsoft Azure Pipelines" class="no-underline" target="_blank" rel="noopener noreferrer">Azure Pipelines</a> automation engineer. I currently manage a team of Test Automation engineers using <a title="Katalon Studio Test Automation Framework" href="https://katalon.com" class="not-prose no-underline" target="_blank" rel="noopener noreferrer">Katalon Studio</a>. 
+          {{ t('hero.sentence-1') }}
         </p>
         <p class="md:text-left text-sm md:text-md text-grey-dark leading-normal mb-6 md:mb-3">
-          I've been a Laravel artisan, a .NET engineer, and WooCommerce ninja, and Drupal developer.
+          {{ t('hero.sentence-2') }}
         </p>
         <p class="md:text-left text-sm md:text-md text-grey-dark leading-normal mb-6 md:mb-3">
-          I'm a Florida native, a life-long <a title="University of Florida Gators" class="no-underline" target="_blank" rel="noopener noreferrer" href="https://en.wikipedia.org/wiki/Florida_Gators">Florida Gator</a>, and&nbsp;a proud employee of&nbsp;<a title="R+L Carriers | Freight shipping and logistics company" class="no-underline" href="https://en.wikipedia.org/wiki/R%2BL_Carriers">R+L Carriers</a>.
+          {{ t('hero.sentence-3') }}
         </p>
         <p class="md:text-left text-sm md:text-md text-grey-dark leading-normal mb-6 md:mb-3">
-          I've worked to promote <a title="YouImpact Victim Impact Panel" class="no-underline" target="_blank" rel="noopener noreferrer" href="https://youimpact.com">DUI awareness</a>, solve <a title="Voices of Change Animal League" class="no-underline" href="https://www.vocalforpets.org/">pet homelessness</a>, and earn time in the <a title="Ocala Yoga Center" class="no-underline" href="http://ocalayogacenter.com/">yoga studio</a>.
+          {{ t('hero.sentence-4') }}
         </p>
         <div class="w-full mt-12 mb-6 text-center md:text-left">
-          <a href="/background" class="btn-salmon">{{t('button.contact_me')}}</a>
+          <a href="/background" class="btn-salmon">{{ t('button.contact_me') }}</a>
         </div>
       </div>
     </div>

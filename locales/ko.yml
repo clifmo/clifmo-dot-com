@@ -1,16 +1,27 @@
 button:
   about: 소개
   back: 뒤로가기
+  contact_me: 내 배경 및 기술 보기
   go: 이동
   home: 홈
   toggle_dark: 다크모드 토글
   toggle_langs: 언어 변경
-  contact_me: 내 배경 및 기술 보기
+footer:
+  contact: 연락하다
+  on-the-web: 웹에서
+  portfolio: 포트폴리오
+hero:
+  heading: 10초 안에 나
+  sentence-1: Azure Pipelines와 함께 Katalon Studio를 사용하여 테스트 자동화 엔지니어를 관리합니다.
+  sentence-2: 저는 Laravel 장인, .NET 엔지니어, WooCommerce 닌자이자 Drupal 개발자였습니다.
+  sentence-3: 저는 플로리다 토박이이자 평생 플로리다 Gator이며 RL Carriers의 자랑스러운 직원입니다.
+  sentence-4: 저는 음주운전 피해자 인식을 제고하고 애완동물의 노숙자를 해결하며 요가 스튜디오에서 시간을 벌기 위해 일했습니다.
 intro:
+  aka: 또한 ~으로 알려진
   desc: Vite 애플리케이션 템플릿
   dynamic-route: 다이나믹 라우트 데모
   hi: 안녕, {name}!
   whats-your-name: 이름이 뭐예요?
-not-found: 찾을 수 없습니다
 nav:
   sw_engineer: 소프트웨어 엔지니어
+not-found: 찾을 수 없습니다

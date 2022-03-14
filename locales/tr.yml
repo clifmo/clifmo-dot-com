@@ -1,18 +1,35 @@
 button:
   about: Hakkımda
   back: Geri
+  contact_me: Geçmişimi ve becerilerimi görün
   go: İLERİ
   home: Anasayfa
   toggle_dark: Karanlık modu değiştir
   toggle_langs: Dilleri değiştir
-  contact_me: Geçmişimi ve becerilerimi görün
+footer:
+  contact: İletişim
+  on-the-web: İnternette
+  portfolio: portföy
+hero:
+  heading: 10 Saniyede Ben
+  sentence-1: >-
+    Azure Pipelines ile Katalon Studio kullanarak Test Otomasyonu mühendislerini
+    yönetiyorum.
+  sentence-2: >-
+    Laravel uzmanı, .NET mühendisi, WooCommerce ninjası ve Drupal geliştiricisi
+    oldum.
+  sentence-3: >-
+    Florida yerlisiyim, ömür boyu Florida Timsahıyım ve R L Carriers'ın gururlu
+    bir çalışanıyım.
+  sentence-4: >-
+    DUI kurbanı farkındalığını teşvik etmek, evcil hayvan evsizliğini çözmek ve
+    yoga stüdyosunda zaman kazanmak için çalıştım.
 intro:
+  aka: Ayrıca şöyle bilinir
   desc: Görüşlü Vite Başlangıç Şablonu
   dynamic-route: Dinamik rota demosu
   hi: Merhaba, {name}!
-  aka: Ayrıca şöyle bilinir
   whats-your-name: Adınız nedir?
-not-found: Bulunamadı
 nav:
   sw_engineer: Yazılım Mühendisi
-
+not-found: Bulunamadı

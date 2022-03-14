@@ -1,17 +1,27 @@
 button:
   about: 关于
   back: 返回
+  contact_me: 查看我的背景和技能
   go: 确定
   home: 首页
   toggle_dark: 切换深色模式
   toggle_langs: 切换语言
-  contact_me: 查看我的背景和技能
+footer:
+  contact: 接触
+  on-the-web: 在网上
+  portfolio: 文件夹
+hero:
+  heading: 10秒内的我
+  sentence-1: 我使用带有 Azure Pipelines 的 Katalon Studio 管理测试自动化工程师。
+  sentence-2: 我曾经是 Laravel 工匠、.NET 工程师、WooCommerce 忍者和 Drupal 开发人员。
+  sentence-3: 我是佛罗里达本地人，终身佛罗里达鳄鱼，也是 R L Carriers 的骄傲员工。
+  sentence-4: 我一直致力于提高 DUI 受害者的意识，解决宠物无家可归的问题，并在瑜伽馆赚取时间。
 intro:
+  aka: 也叫
   desc: 固执己见的 Vite 项目模板
   dynamic-route: 动态路由演示
   hi: 你好，{name}
-  aka: 也叫
   whats-your-name: 输入你的名字
-not-found: 未找到页面
 nav:
   sw_engineer: 软件工程师
+not-found: 未找到页面
