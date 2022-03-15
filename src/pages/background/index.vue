@@ -167,28 +167,32 @@
               Manager, Test Automation Architect/DevOps
             </h3>
             <section class="mb-6">
-              <div class="lg:inline-block lg:w-4/12 lg:align-top italic mb-2">
+              <div class="lg:inline-block lg:w-3/12 lg:align-top italic mb-2">
                 2020 &ndash; Present
               </div>
-              <div class="lg:inline-block lg:w-8/12 w-full text-left">
-                Founded the first team of software development engineers in test for a 50 person quality department.
+              <div class="lg:inline-block lg:w-9/12 w-full md:text-left">
+                Hired and trained a team of 7 software engineers in test within a 50-person quality department
               </div>
             </section>
-            <section class="mb-6">
-              <div class="lg:inline-block lg:w-4/12 lg:align-top italic mb-2">
+            <section class="mb-3 text-center items-center">
+              <div class="lg:inline-block lg:w-3/12 lg:align-top italic mb-2">
                 Accomplishments
               </div>
-              <ul class="lg:inline-block lg:w-8/12 w-full mt-0 py-0">
-                <li>Responsible for Dock and Line Haul operations smoke, regression, and performance test automation.</li>
-                <li>Engineered CI/CD tooling, build and release pipelines and micro-service architecture.</li>
-                <li>Advised technology department in DevOps, CI/CD and automation practices.</li>
-              </ul>
+              <div class="lg:inline-block lg:w-9/12 w-full mt-0 py-0 not-prose  md:text-left items-center">
+                Responsible for smoke, sanity, regression, integration and performance test automation for critical operations applications.
+              </div>
+            </section>
+            <section class="mb-6 text-center items-center">
+              <div class="lg:inline-block lg:w-3/12 lg:align-top italic mb-2" />
+              <div class="lg:inline-block lg:w-9/12 w-full mt-0 py-0 not-prose  md:text-left items-center">
+                <span>Engineered CI/CD tooling, build and release pipelines and micro-service architecture to support test agility.</span>
+              </div>
             </section>
             <section class="mb-6">
               <div class="lg:inline-block lg:w-3/12 lg:align-top italic mb-2">
                 Tools
               </div>
-              <div class="lg:inline-block lg:w-8/12 w-full">
+              <div class="lg:inline-block lg:w-9/12 w-full">
                 <span resume-tool>Katalon Studio</span>
                 <span resume-tool>Azure DevOps Server</span>
                 <span resume-tool>Apache JMeter</span>
@@ -202,27 +206,32 @@
               Lead Automation Engineer
             </h3>
             <section class="mb-6">
-              <div class="lg:inline-block lg:w-4/12 lg:align-top italic mb-2">
+              <div class="lg:inline-block lg:w-3/12 lg:align-top italic mb-2">
                 2018 &ndash; 2020
               </div>
-              <div class="lg:inline-block lg:w-8/12 w-full text-left">
-                Achieved first automated production code deployments of applications critical to freight operations.
+              <div class="lg:inline-block lg:w-9/12 w-full md:text-left">
+                Engineered CI/CD tooling using Azure Pipelines SDK supporting .NET, Oracle and TIBCO deployments for a department 100 developers.
               </div>
             </section>
-            <section class="mb-6">
-              <div class="lg:inline-block lg:w-4/12 lg:align-top italic mb-2">
+            <section class="mb-3">
+              <div class="lg:inline-block lg:w-3/12 lg:align-top italic mb-2">
                 Accomplishments
               </div>
-              <ul class="lg:inline-block lg:w-8/12 w-full mt-0 py-0 not-prose">
-                <li>Engineered CI/CD tooling using Azure Pipelines SDK supporting .NET, Oracle and TIBCO deployments.</li>
-                <li>Responsible for DevOps transformation of freight opeartions and business enterprise development teams.</li>
-              </ul>
+              <div class="lg:inline-block lg:w-9/12 w-full mt-0 py-0 not-prose md:text-left">
+                Responsible for first deployments of critical operations applications using automation.
+              </div>
             </section>
             <section class="mb-6">
-              <div class="lg:inline-block lg:w-4/12 lg:align-top italic mb-2">
+              <div class="lg:inline-block lg:w-3/12 lg:align-top italic mb-2" />
+              <div class="lg:inline-block lg:w-9/12 w-full mt-0 py-0 not-prose md:text-left">
+                Developed department standards and documentation for source control workflow, CI/CD, and Git.
+              </div>
+            </section>
+            <section class="mb-6">
+              <div class="lg:inline-block lg:w-3/12 lg:align-top italic mb-2">
                 Tools
               </div>
-              <div class="lg:inline-block lg:w-8/12 w-full">
+              <div class="lg:inline-block lg:w-9/12 w-full">
                 <span resume-tool>.NET Framework</span>
                 <span resume-tool>Azure Pipeline Tasks SDK</span>
                 <span resume-tool>Powershell</span>
@@ -236,32 +245,43 @@
               Lead Full-Stack Developer
             </h3>
             <section class="mb-6">
-              <div class="lg:inline-block lg:w-4/12 lg:align-top italic mb-2">
+              <div class="lg:inline-block lg:w-3/12 lg:align-top italic mb-2">
                 2014 - 2018
               </div>
-              <div class="lg:inline-block lg:w-8/12 w-full text-left">
+              <div class="lg:inline-block lg:w-9/12 w-full md:text-left">
                 Internal start-up agency providing web and e-commerce solutions to freight clients.
               </div>
             </section>
-            <section class="mb-6">
-              <div class="lg:inline-block lg:w-4/12 lg:align-top italic mb-2">
+            <section class="mb-3">
+              <div class="lg:inline-block lg:w-3/12 lg:align-top italic mb-2">
                 Accomplishments
               </div>
-              <ul class="lg:inline-block lg:w-8/12 w-full mt-0 py-0 not-prose">
-                <li>Created open source R+L Carriers Rates extension for WordPress.</li>
-                <li>Created YouImpact DUI Victim Awareness e-learning application.</li>
-                <li>Created cruise line compliance and saftey mobile application for Navalimpianti USA, Inc.</li>
-              </ul>
+              <div class="lg:inline-block lg:w-9/12 w-full mt-0 py-0 not-prose md:text-left">
+                Lead developer of R+L Carriers Shipping Rates extension for WordPress.
+              </div>
+            </section>
+            <section class="mb-3">
+              <div class="lg:inline-block lg:w-3/12 lg:align-top italic mb-2" />
+              <div class="lg:inline-block lg:w-9/12 w-full mt-0 py-0 not-prose md:text-left">
+                Lead developer of YouImpact DUI Victim Awareness video e-learning platform.
+              </div>
             </section>
             <section class="mb-6">
-              <div class="lg:inline-block lg:w-4/12 lg:align-top italic mb-2">
+              <div class="lg:inline-block lg:w-3/12 lg:align-top italic mb-2" />
+              <div class="lg:inline-block lg:w-9/12 w-full mt-0 py-0 not-prose md:text-left">
+                Lead developer of Navalimpianti USA, Inc cruise line compliance and safety app.
+              </div>
+            </section>
+            <section class="mb-6">
+              <div class="lg:inline-block lg:w-3/12 lg:align-top italic mb-2">
                 Tools
               </div>
-              <div class="lg:inline-block lg:w-8/12 w-full">
+              <div class="lg:inline-block lg:w-9/12 w-full">
                 <span resume-tool>Laravel</span>
                 <span resume-tool>WordPress</span>
                 <span resume-tool>Nginx</span>
-                <span resume-tool>Linode</span>
+                <span resume-tool>MariaDB Galera</span>
+                <span resume-tool>GlusterFS</span>
               </div>
             </section>
           </div>
@@ -281,21 +301,26 @@
               Escambia County Board of County Commissioners
             </h3>
             <section class="mb-6">
-              <div class="lg:inline-block lg:w-4/12 lg:align-top italic mb-2">
+              <div class="lg:inline-block lg:w-3/12 lg:align-top italic mb-2">
                 Web IT Coordinator
               </div>
-              <div class="lg:inline-block lg:w-8/12 w-full text-left">
+              <div class="lg:inline-block lg:w-9/12 w-full md:text-left">
                 Coordinated with the board, 25 departments and contractors to relaunch MyEscambia.com.
               </div>
             </section>
-            <section class="mb-6">
-              <div class="lg:inline-block lg:w-4/12 lg:align-top italic mb-2">
+            <section class="mb-3">
+              <div class="lg:inline-block lg:w-3/12 lg:align-top italic mb-2">
                 Accomplishments
               </div>
-              <ul class="lg:inline-block lg:w-8/12 w-full mt-0 py-0 not-prose">
-                <li>Developed API integrations to county services for Public Works and Animal Shelter departments.</li>
-                <li>Coordinated with the Public Information Officer to customize a CMS backend.</li>
-              </ul>
+              <div class="lg:inline-block lg:w-9/12 w-full mt-0 py-0 not-prose md:text-left">
+                Developed API integrations to county services for Public Works and Animal Shelter departments.
+              </div>
+            </section>
+            <section class="mb-6">
+              <div class="lg:inline-block lg:w-3/12 lg:align-top italic mb-2" />
+              <div class="lg:inline-block lg:w-9/12 w-full mt-0 py-0 not-prose md:text-left">
+                Coordinated with the Public Information Officer to customize a CMS backend.
+              </div>
             </section>
           </div>
           <div>
@@ -303,21 +328,26 @@
               City of Pensacola
             </h3>
             <section class="mb-6">
-              <div class="lg:inline-block lg:w-4/12 lg:align-top italic mb-2">
+              <div class="lg:inline-block lg:w-3/12 lg:align-top italic mb-2">
                 Webmaster
               </div>
-              <div class="lg:inline-block lg:w-8/12 w-full text-left">
-                Designed web front-ends and developed backend integrations to city services. Relaunched 6 municipal websites.
+              <div class="lg:inline-block lg:w-9/12 w-full md:text-left">
+                Designed web front-ends and developed backend integrations to city services.
+              </div>
+            </section>
+            <section class="mb-3">
+              <div class="lg:inline-block lg:w-3/12 lg:align-top italic mb-2">
+                Accomplishments
+              </div>
+              <div class="lg:inline-block lg:w-9/12 w-full mt-0 py-0 not-prose md:text-left">
+                Employee of the Month &ndash; August 2010
               </div>
             </section>
             <section class="mb-6">
-              <div class="lg:inline-block lg:w-4/12 lg:align-top italic mb-2">
-                Accomplishments
+              <div class="lg:inline-block lg:w-3/12 lg:align-top italic mb-2" />
+              <div class="lg:inline-block lg:w-9/12 w-full mt-0 py-0 not-prose md:text-left">
+                Relaunched Pensacola International Airport, City of Pensacola and Pensacola Police Department websites.
               </div>
-              <ul class="lg:inline-block lg:w-8/12 w-full mt-0 py-0 not-prose">
-                <li>Employee of the Month &ndash; August 2010</li>
-                <li>Relaunched Pensacola International Airport, City of Pensacola and Pensacola Police Department websites.</li>
-              </ul>
             </section>
           </div>
         </div>
