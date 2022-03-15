@@ -33,3 +33,90 @@ intro:
 nav:
   sw_engineer: Kỹ sư phần mềm
 not-found: Không tìm thấy
+resume:
+  bio:
+    first-job:
+      chick-fil-a: Chick-fil-A
+      night-manager: Quản lý ban đêm
+      title: Nghề nghiệp đầu tiên
+    job-title: Người quản lý, Kiến trúc sư tự động hóa thử nghiệm / DevOps
+  education:
+    2001-pensacola-high-school: 2001 Trường trung học Pensacola
+    2006-university-of-florida: 2006 Đại học Florida
+    b-s-computer-science: |-
+      B.S. 
+      Khoa học máy tính
+    education: Giáo dục
+    international-baccalaureate: Tú tài quốc tế
+  experience:
+    '2007': '2007'
+    '2013': '2013'
+    '2014': '2014'
+    '2018': '2018'
+    '2020': Năm 2020
+    accomplishments: Thành tích
+    ci-cd-paradigms: Mô hình CI / CD
+    city-of-pensacola: Thành phố Pensacola
+    detail1: >-
+      Chịu trách nhiệm về khói, sự tỉnh táo, hồi quy, tích hợp và tự động hóa
+      kiểm tra hiệu suất cho các ứng dụng hoạt động quan trọng.
+    detail10: >-
+      Đã khởi động lại các trang web của Sân bay Quốc tế Pensacola, Thành phố
+      Pensacola và Sở Cảnh sát Pensacola.
+    detail11: Nhân viên của tháng, tháng 8 năm 2010.
+    detail2: >-
+      Thiết kế công cụ CI / CD được thiết kế, xây dựng và phát hành các đường
+      ống và kiến ​​trúc dịch vụ vi mô để hỗ trợ tính linh hoạt của thử nghiệm.
+    detail3: >-
+      Chịu trách nhiệm triển khai lần đầu các ứng dụng hoạt động quan trọng sử
+      dụng tự động hóa.
+    detail4: >-
+      Các tiêu chuẩn và tài liệu được thiết kế cho quy trình công việc kiểm soát
+      nguồn, CI / CD và Git.
+    detail5: >-
+      Nhà phát triển chính của tiện ích mở rộng Phí vận chuyển R L Carriers cho
+      WordPress.
+    detail6: >-
+      Nhà phát triển chính của nền tảng học tập điện tử video YouImpact DUI
+      Victim Awareness.
+    detail7: >-
+      Nhà phát triển chính của ứng dụng an toàn và tuân thủ tuyến hành trình
+      Navalimpianti USA, Inc.
+    detail8: >-
+      Tích hợp API đã phát triển cho các dịch vụ của quận cho các cơ quan Công
+      trình Công cộng và Trại tạm trú Động vật.
+    detail9: >-
+      Phối hợp với Cán bộ Thông tin Công cộng để tùy chỉnh chương trình phụ trợ
+      CMS.
+    dynamic-languages: Ngôn ngữ động
+    escambia-county-board-of-county-commissioners: Ủy ban nhân dân quận Escambia
+    extra-skills: Kỹ năng bổ sung
+    interpreted-languages: Các ngôn ngữ được thông dịch
+    lead-automation-engineer: Kỹ sư tự động hóa chính
+    lead-full-stack-developer: Nhà phát triển toàn ngăn xếp hàng đầu
+    present: Hiện nay
+    professional-tools: Công cụ chuyên nghiệp
+    public-sector: Khu vực công
+    r-l-carriers: R L Các nhà cung cấp dịch vụ
+    september-2013-and-ndash-present: Tháng 9 năm 2013 \
+    static-languages: Ngôn ngữ tĩnh
+    summary1: >-
+      Đã thuê và đào tạo một đội gồm 7 kỹ sư phần mềm kiểm thử trong bộ phận
+      chất lượng gồm 50 người
+    summary2: >-
+      Công cụ CI / CD được thiết kế bằng cách sử dụng Azure Pipelines SDK hỗ trợ
+      triển khai .NET, Oracle và TIBCO cho 100 nhà phát triển thuộc bộ phận.
+    summary3: >-
+      Cơ quan mới thành lập nội bộ cung cấp các giải pháp web và thương mại điện
+      tử cho khách hàng vận chuyển hàng hóa.
+    summary4: >-
+      Phối hợp với hội đồng quản trị, 25 phòng ban và nhà thầu để khởi chạy lại
+      MyEscambia.com.
+    summary5: >-
+      Thiết kế giao diện người dùng web và phát triển tích hợp phụ trợ cho các
+      dịch vụ thành phố.
+    title: Kinh nghiệm chuyên nghiệp
+    tools: Công cụ
+    web-development: phát triển web
+    web-it-coordinator: Điều phối viên CNTT Web
+    webmaster: Quản trị trang web

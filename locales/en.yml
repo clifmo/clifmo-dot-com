@@ -33,3 +33,86 @@ intro:
 nav:
   sw_engineer: Software Engineer
 not-found: Not found
+resume:
+  bio:
+    first-job:
+      chick-fil-a: Chick-fil-A
+      night-manager: Night Manager
+      title: First Job
+    job-title: Manager, Test Automation Architect/DevOps
+  education:
+    2001-pensacola-high-school: 2001 Pensacola High School
+    2006-university-of-florida: 2006 University of Florida
+    b-s-computer-science: B.S. Computer Science
+    education: Education
+    international-baccalaureate: International Baccalaureate
+  experience:
+    '2007': '2007'
+    '2013': '2013'
+    '2014': '2014'
+    '2018': '2018'
+    '2020': '2020'
+    accomplishments: Accomplishments
+    ci-cd-paradigms: CI/CD paradigms
+    city-of-pensacola: City of Pensacola
+    detail1: >-
+      Responsible for smoke, sanity, regression, integration and performance
+      test automation for critical operations applications.
+    detail10: >-
+      Relaunched Pensacola International Airport, City of Pensacola and
+      Pensacola Police Department websites.
+    detail11: Employee of the Month, August 2010.
+    detail2: >-
+      Engineered CI/CD tooling, build and release pipelines and micro-service
+      architecture to support test agility.
+    detail3: >-
+      Responsible for first deployments of critical operations applications
+      using automation.
+    detail4: >-
+      Designed standards and documentation for source control workflow, CI/CD,
+      and Git.
+    detail5: Lead developer of R+L Carriers Shipping Rates extension for WordPress.
+    detail6: >-
+      Lead developer of YouImpact DUI Victim Awareness video e-learning
+      platform.
+    detail7: >-
+      Lead developer of Navalimpianti USA, Inc cruise line compliance and safety
+      app.
+    detail8: >-
+      Developed API integrations to county services for Public Works and Animal
+      Shelter departments.
+    detail9: >-
+      Coordinated with the Public Information Officer to customize a CMS
+      backend.
+    dynamic-languages: Dynamic languages
+    escambia-county-board-of-county-commissioners: Escambia County Board of County Commissioners
+    extra-skills: Extra Skills
+    interpreted-languages: Interpreted languages
+    lead-automation-engineer: Lead Automation Engineer
+    lead-full-stack-developer: Lead Full-Stack Developer
+    present: Present
+    professional-tools: Professional Tools
+    public-sector: Public Sector
+    r-l-carriers: R+L Carriers
+    september-2013-and-ndash-present: September 2013 \&ndash;\ Present
+    static-languages: Static languages
+    summary1: >-
+      Hired and trained a team of 7 software engineers in test within a
+      50-person quality department
+    summary2: >-
+      Engineered CI/CD tooling using Azure Pipelines SDK supporting .NET, Oracle
+      and TIBCO deployments for a department 100 developers.
+    summary3: >-
+      Internal start-up agency providing web and e-commerce solutions to freight
+      clients.
+    summary4: >-
+      Coordinated with the board, 25 departments and contractors to relaunch
+      MyEscambia.com.
+    summary5: >-
+      Designed web front-ends and developed backend integrations to city
+      services.
+    title: Professional Experience
+    tools: Tools
+    web-development: Web development
+    web-it-coordinator: Web IT Coordinator
+    webmaster: Webmaster

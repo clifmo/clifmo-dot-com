@@ -33,3 +33,91 @@ intro:
 nav:
   sw_engineer: Anwendungsentwickler
 not-found: Nicht gefunden
+resume:
+  bio:
+    first-job:
+      chick-fil-a: Chick-fil-A
+      night-manager: Nacht-Manager
+      title: Erster Job
+    job-title: Manager, Testautomatisierungsarchitekt/DevOps
+  education:
+    2001-pensacola-high-school: 2001 Pensacola High School
+    2006-university-of-florida: 2006 Universität von Florida
+    b-s-computer-science: |-
+      BS 
+      Informatik
+    education: Bildung
+    international-baccalaureate: Internationales Abitur
+  experience:
+    '2007': '2007'
+    '2013': '2013'
+    '2014': '2014'
+    '2018': '2018'
+    '2020': '2020'
+    accomplishments: Errungenschaften
+    ci-cd-paradigms: CI/CD-Paradigmen
+    city-of-pensacola: Stadt Pensacola
+    detail1: >-
+      Verantwortlich für Smoke, Sanity, Regression, Integration und
+      Leistungstestautomatisierung für kritische Betriebsanwendungen.
+    detail10: >-
+      Relaunch der Websites des Pensacola International Airport, der Stadt
+      Pensacola und der Pensacola Police Department.
+    detail11: Mitarbeiter des Monats August 2010.
+    detail2: >-
+      Entwickelte CI/CD-Tools, Build- und Release-Pipelines und
+      Microservice-Architektur zur Unterstützung der Testagilität.
+    detail3: >-
+      Verantwortlich für die erste Bereitstellung kritischer Betriebsanwendungen
+      mithilfe von Automatisierung.
+    detail4: >-
+      Entwickelte Standards und Dokumentationen für Source Control Workflow,
+      CI/CD und Git.
+    detail5: >-
+      Leitender Entwickler der R L Carriers Shipping Rates-Erweiterung für
+      WordPress.
+    detail6: >-
+      Leitender Entwickler der Video-E-Learning-Plattform YouImpact DUI Victim
+      Awareness.
+    detail7: >-
+      Leitender Entwickler der Navalimpianti USA, Inc.
+      Kreuzfahrtlinien-Compliance- und Sicherheits-App.
+    detail8: >-
+      Entwickelte API-Integrationen zu Bezirksdiensten für öffentliche Arbeiten
+      und Tierheimabteilungen.
+    detail9: >-
+      Koordiniert mit dem Public Information Officer, um ein CMS-Backend
+      anzupassen.
+    dynamic-languages: Dynamische Sprachen
+    escambia-county-board-of-county-commissioners: Escambia County Board of County Commissioners
+    extra-skills: Zusätzliche Fähigkeiten
+    interpreted-languages: Interpretierte Sprachen
+    lead-automation-engineer: Leitender Automatisierungsingenieur
+    lead-full-stack-developer: Führender Full-Stack-Entwickler
+    present: Gegenwärtig
+    professional-tools: Professionelle Werkzeuge
+    public-sector: Öffentlicher Sektor
+    r-l-carriers: R L Träger
+    september-2013-and-ndash-present: September 2013 \
+    static-languages: Statische Sprachen
+    summary1: >-
+      Einstellung und Schulung eines Teams von 7 Softwareingenieuren im Test
+      innerhalb einer 50-köpfigen Qualitätsabteilung
+    summary2: >-
+      Entwickelte CI/CD-Tools mit Azure Pipelines SDK zur Unterstützung von
+      .NET-, Oracle- und TIBCO-Bereitstellungen für eine Abteilung mit 100
+      Entwicklern.
+    summary3: >-
+      Interne Start-up-Agentur, die Frachtkunden Web- und E-Commerce-Lösungen
+      anbietet.
+    summary4: >-
+      Koordiniert mit dem Vorstand, 25 Abteilungen und Auftragnehmern, um
+      MyEscambia.com neu zu starten.
+    summary5: >-
+      Entwarf Web-Frontends und entwickelte Backend-Integrationen für städtische
+      Dienste.
+    title: Berufserfahrung
+    tools: Werkzeuge
+    web-development: Web Entwicklung
+    web-it-coordinator: Web-IT-Koordinator
+    webmaster: Webmaster

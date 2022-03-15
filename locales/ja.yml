@@ -25,3 +25,61 @@ intro:
 nav:
   sw_engineer: ソフトウェアエンジニア
 not-found: 見つかりませんでした
+resume:
+  bio:
+    first-job:
+      chick-fil-a: チックフィレイ-A
+      night-manager: ナイトマネジャー
+      title: 最初の仕事
+    job-title: マネージャー、テスト自動化アーキテクト/ DevOps
+  education:
+    2001-pensacola-high-school: 2001ペンサコーラ高校
+    2006-university-of-florida: 2006年フロリダ大学
+    b-s-computer-science: |-
+      B.S.
+      コンピュータサイエンス
+    education: 教育
+    international-baccalaureate: 国際バカロレア機構
+  experience:
+    '2007': 2007年
+    '2013': 2013年
+    '2014': 2014年
+    '2018': 2018年
+    '2020': '2020'
+    accomplishments: 成果
+    ci-cd-paradigms: CI/CDパラダイム
+    city-of-pensacola: ペンサコーラ市
+    detail1: 重要な運用アプリケーションの煙、健全性、回帰、統合、およびパフォーマンステストの自動化を担当します。
+    detail10: ペンサコーラ国際空港、ペンサコーラ市、ペンサコーラ警察のウェブサイトをリニューアルしました。
+    detail11: 今月の従業員、2010年8月。
+    detail2: 設計されたCI/CDツール、ビルドとリリースのパイプライン、およびテストの俊敏性をサポートするマイクロサービスアーキテクチャ。
+    detail3: 自動化を使用した重要な運用アプリケーションの最初の展開を担当します。
+    detail4: ソース管理ワークフロー、CI / CD、およびGit用に設計された標準とドキュメント。
+    detail5: WordPress用のRLCarriersShippingRates拡張機能のリード開発者。
+    detail6: YouImpact DUIVictimAwarenessビデオeラーニングプラットフォームのリード開発者。
+    detail7: Navalimpianti USA、Incのクルーズラインコンプライアンスおよび安全アプリのリード開発者。
+    detail8: 公共事業および動物保護施設部門向けの郡サービスへのAPI統合を開発しました。
+    detail9: CMSバックエンドをカスタマイズするために広報担当者と調整しました。
+    dynamic-languages: 動的言語
+    escambia-county-board-of-county-commissioners: エスカンビア郡郡政委員会
+    extra-skills: 追加スキル
+    interpreted-languages: 通訳言語
+    lead-automation-engineer: リードオートメーションエンジニア
+    lead-full-stack-developer: フルスタック開発者をリードする
+    present: 現在
+    professional-tools: プロのツール
+    public-sector: 公的機関
+    r-l-carriers: RLキャリア
+    september-2013-and-ndash-present: 2013年9月 \
+    static-languages: 静的言語
+    summary1: 50人の品質部門内でテスト中の7人のソフトウェアエンジニアのチームを雇い、訓練しました
+    summary2: >-
+      部門100の開発者向けに.NET、Oracle、およびTIBCOの展開をサポートするAzurePipelinesSDKを使用して設計されたCI/CDツール。
+    summary3: 貨物クライアントにウェブおよびeコマースソリューションを提供する社内スタートアップエージェンシー。
+    summary4: MyEscambia.comを再開するために、取締役会、25の部門および請負業者と調整しました。
+    summary5: Webフロントエンドを設計し、都市サービスへのバックエンド統合を開発しました。
+    title: プロとしての経験
+    tools: ツール
+    web-development: ウェブ開発
+    web-it-coordinator: WebITコーディネーター
+    webmaster: ウェブマスター

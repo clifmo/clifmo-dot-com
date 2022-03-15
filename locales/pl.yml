@@ -34,3 +34,88 @@ intro:
 nav:
   sw_engineer: Inżynier oprogramowania
 not-found: Nie znaleziono
+resume:
+  bio:
+    first-job:
+      chick-fil-a: Laska-fil-A
+      night-manager: Kierownik nocny
+      title: Pierwsza praca
+    job-title: Menedżer, Architekt Automatyzacji Testów/DevOps
+  education:
+    2001-pensacola-high-school: 2001 Liceum Pensacola
+    2006-university-of-florida: 2006 Uniwersytet Florydy
+    b-s-computer-science: |-
+      B.S. 
+      Informatyka
+    education: Edukacja
+    international-baccalaureate: Matura międzynarodowa
+  experience:
+    '2007': '2007'
+    '2013': '2013'
+    '2014': '2014'
+    '2018': '2018'
+    '2020': '2020'
+    accomplishments: Osiągnięcia
+    ci-cd-paradigms: paradygmaty CI/CD
+    city-of-pensacola: Miasto Pensacola
+    detail1: >-
+      Odpowiedzialny za dym, rozsądek, regresję, integrację i automatyzację
+      testów wydajności dla krytycznych aplikacji operacyjnych.
+    detail10: >-
+      Ponownie uruchomiono strony internetowe międzynarodowego lotniska
+      Pensacola, miasta Pensacola i departamentu policji w Pensacola.
+    detail11: Pracownik miesiąca, sierpień 2010.
+    detail2: >-
+      Zaprojektowane narzędzia CI/CD, potoki kompilacji i wydania oraz
+      architektura mikrousług w celu wsparcia elastyczności testów.
+    detail3: >-
+      Odpowiedzialny za pierwsze wdrożenia krytycznych aplikacji operacyjnych z
+      wykorzystaniem automatyzacji.
+    detail4: >-
+      Zaprojektowane standardy i dokumentacja dla przepływu pracy kontroli
+      źródła, CI/CD i Git.
+    detail5: Główny programista rozszerzenia RL Carriers Shipping Rates dla WordPress.
+    detail6: >-
+      Główny programista platformy e-learningowej wideo YouImpact DUI Victim
+      Awareness.
+    detail7: >-
+      Główny twórca aplikacji Navalimpianti USA, Inc. dotyczącej zgodności i
+      bezpieczeństwa linii wycieczkowych.
+    detail8: >-
+      Opracowano integracje API z usługami powiatowymi dla wydziałów robót
+      publicznych i schronisk dla zwierząt.
+    detail9: >-
+      Koordynowane z Urzędnikiem ds. Informacji Publicznej w celu dostosowania
+      zaplecza CMS.
+    dynamic-languages: Języki dynamiczne
+    escambia-county-board-of-county-commissioners: Escambia County Board of County Commissioners
+    extra-skills: Dodatkowe umiejętności
+    interpreted-languages: Tłumaczone języki
+    lead-automation-engineer: Główny Inżynier Automatyki
+    lead-full-stack-developer: Główny programista pełnego stosu
+    present: Obecny
+    professional-tools: Profesjonalne narzędzia
+    public-sector: Sektor publiczny
+    r-l-carriers: RL Przewoźnicy
+    september-2013-and-ndash-present: Wrzesień 2013 \
+    static-languages: Języki statyczne
+    summary1: >-
+      Zatrudnił i przeszkolił zespół 7 inżynierów oprogramowania w testach w
+      50-osobowym dziale jakości
+    summary2: >-
+      Opracowane narzędzia CI/CD przy użyciu zestawu Azure Pipelines SDK
+      obsługującego wdrożenia .NET, Oracle i TIBCO dla działu 100 programistów.
+    summary3: >-
+      Wewnętrzna agencja typu start-up dostarczająca rozwiązania internetowe i
+      e-commerce klientom frachtowym.
+    summary4: >-
+      Skoordynowane z zarządem, 25 działami i kontrahentami w celu ponownego
+      uruchomienia MyEscambia.com.
+    summary5: >-
+      Zaprojektowane webowe front-endy i rozwinięte integracje backendowe z
+      usługami miejskimi.
+    title: Doświadczenie zawodowe
+    tools: Narzędzia
+    web-development: tworzenie stron internetowych
+    web-it-coordinator: Koordynator ds. Web IT
+    webmaster: Webmaster

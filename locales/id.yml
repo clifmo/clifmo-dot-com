@@ -33,3 +33,85 @@ intro:
 nav:
   sw_engineer: Insinyur Perangkat Lunak
 not-found: Tidak ditemukan
+resume:
+  bio:
+    first-job:
+      chick-fil-a: Cewek-fil-A
+      night-manager: Manajer Malam
+      title: Pekerjaan pertama
+    job-title: Manajer, Arsitek Otomasi Tes/DevOps
+  education:
+    2001-pensacola-high-school: SMA Pensacola 2001
+    2006-university-of-florida: Universitas Florida 2006
+    b-s-computer-science: |-
+      BS 
+      Ilmu Komputer
+    education: Pendidikan
+    international-baccalaureate: Sarjana Muda Internasional
+  experience:
+    '2007': '2007'
+    '2013': '2013'
+    '2014': '2014'
+    '2018': '2018'
+    '2020': '2020'
+    accomplishments: prestasi
+    ci-cd-paradigms: Paradigma CI/CD
+    city-of-pensacola: Kota Pensacola
+    detail1: >-
+      Bertanggung jawab atas asap, kewarasan, regresi, integrasi, dan
+      otomatisasi uji kinerja untuk aplikasi operasi kritis.
+    detail10: >-
+      Meluncurkan kembali situs web Bandara Internasional Pensacola, Kota
+      Pensacola dan Departemen Kepolisian Pensacola.
+    detail11: Karyawan Bulan Ini, Agustus 2010.
+    detail2: >-
+      Perkakas CI/CD yang direkayasa, buat dan rilis pipeline dan arsitektur
+      layanan mikro untuk mendukung kelincahan pengujian.
+    detail3: >-
+      Bertanggung jawab atas penerapan pertama aplikasi operasi kritis
+      menggunakan otomatisasi.
+    detail4: >-
+      Standar dan dokumentasi yang dirancang untuk alur kerja kontrol sumber,
+      CI/CD, dan Git.
+    detail5: Pengembang utama ekstensi RL Carriers Shipping Rates untuk WordPress.
+    detail6: Pengembang utama platform e-learning video YouImpact DUI Victim Awareness.
+    detail7: Pengembang utama aplikasi kepatuhan dan keamanan Navalimpianti USA, Inc.
+    detail8: >-
+      Mengembangkan integrasi API ke layanan daerah untuk departemen Pekerjaan
+      Umum dan Penampungan Hewan.
+    detail9: >-
+      Berkoordinasi dengan Petugas Informasi Publik untuk menyesuaikan backend
+      CMS.
+    dynamic-languages: Bahasa dinamis
+    escambia-county-board-of-county-commissioners: Dewan Komisaris Kabupaten Escambia
+    extra-skills: Keterampilan Ekstra
+    interpreted-languages: Bahasa yang ditafsirkan
+    lead-automation-engineer: Insinyur Otomasi Utama
+    lead-full-stack-developer: Pimpin Pengembang Tumpukan Penuh
+    present: Hadiah
+    professional-tools: Alat Profesional
+    public-sector: Sektor publik
+    r-l-carriers: RL Operator
+    september-2013-and-ndash-present: September 2013 \
+    static-languages: Bahasa statis
+    summary1: >-
+      Mempekerjakan dan melatih tim yang terdiri dari 7 insinyur perangkat lunak
+      dalam pengujian dalam departemen kualitas 50 orang
+    summary2: >-
+      Perkakas CI/CD yang direkayasa menggunakan Azure Pipelines SDK yang
+      mendukung penerapan .NET, Oracle, dan TIBCO untuk 100 pengembang
+      departemen.
+    summary3: >-
+      Agensi rintisan internal yang menyediakan solusi web dan e-niaga untuk
+      klien pengiriman.
+    summary4: >-
+      Berkoordinasi dengan dewan, 25 departemen dan kontraktor untuk meluncurkan
+      kembali MyEscambia.com.
+    summary5: >-
+      Merancang front-end web dan mengembangkan integrasi backend ke layanan
+      kota.
+    title: Pengalaman profesional
+    tools: Peralatan
+    web-development: pengembangan web
+    web-it-coordinator: Koordinator TI Web
+    webmaster: Webmaster

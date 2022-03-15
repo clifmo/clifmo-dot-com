@@ -33,3 +33,92 @@ intro:
 nav:
   sw_engineer: Ingeniero de Software
 not-found: No se ha encontrado
+resume:
+  bio:
+    first-job:
+      chick-fil-a: Chick-fil-A
+      night-manager: Gerente nocturno
+      title: Primer trabajo
+    job-title: Gerente, Arquitecto de Automatización de Pruebas/DevOps
+  education:
+    2001-pensacola-high-school: 2001 Escuela secundaria de Pensacola
+    2006-university-of-florida: 2006 Universidad de Florida
+    b-s-computer-science: |-
+      BS 
+      Ciencias de la Computación
+    education: Educación
+    international-baccalaureate: Bachillerato Internacional
+  experience:
+    '2007': '2007'
+    '2013': '2013'
+    '2014': '2014'
+    '2018': '2018'
+    '2020': '2020'
+    accomplishments: logros
+    ci-cd-paradigms: Paradigmas CI/CD
+    city-of-pensacola: Ciudad de Pensacola
+    detail1: >-
+      Responsable de la automatización de pruebas de humo, cordura, regresión,
+      integración y rendimiento para aplicaciones de operaciones críticas.
+    detail10: >-
+      Se relanzaron los sitios web del Aeropuerto Internacional de Pensacola, la
+      Ciudad de Pensacola y el Departamento de Policía de Pensacola.
+    detail11: Empleado del mes, agosto de 2010.
+    detail2: >-
+      Herramientas de CI/CD diseñadas, canalizaciones de compilación y
+      lanzamiento y arquitectura de microservicios para respaldar la agilidad de
+      las pruebas.
+    detail3: >-
+      Responsable de las primeras implementaciones de aplicaciones de
+      operaciones críticas utilizando la automatización.
+    detail4: >-
+      Diseñó estándares y documentación para el flujo de trabajo de control de
+      código fuente, CI/CD y Git.
+    detail5: >-
+      Desarrollador principal de la extensión R L Carriers Shipping Rates para
+      WordPress.
+    detail6: >-
+      Desarrollador principal de la plataforma de aprendizaje electrónico en
+      video YouImpact DUI Victim Awareness.
+    detail7: >-
+      Desarrollador líder de la aplicación de seguridad y cumplimiento de líneas
+      de cruceros de Navalimpianti USA, Inc.
+    detail8: >-
+      Desarrollé integraciones de API a los servicios del condado para los
+      departamentos de Obras Públicas y Refugio de Animales.
+    detail9: >-
+      Coordiné con el Oficial de Información Pública para personalizar un
+      backend de CMS.
+    dynamic-languages: Idiomas dinámicos
+    escambia-county-board-of-county-commissioners: Junta de Comisionados del Condado de Escambia
+    extra-skills: Habilidades adicionales
+    interpreted-languages: Idiomas interpretados
+    lead-automation-engineer: Ingeniero jefe de automatización
+    lead-full-stack-developer: Desarrollador líder de pila completa
+    present: Regalo
+    professional-tools: Herramientas profesionales
+    public-sector: Sector público
+    r-l-carriers: Portadores R L
+    september-2013-and-ndash-present: Septiembre 2013 \
+    static-languages: Idiomas estáticos
+    summary1: >-
+      Contrató y capacitó a un equipo de 7 ingenieros de software en pruebas
+      dentro de un departamento de calidad de 50 personas
+    summary2: >-
+      Herramientas de CI/CD diseñadas con SDK de Azure Pipelines que admiten
+      implementaciones de .NET, Oracle y TIBCO para un departamento de 100
+      desarrolladores.
+    summary3: >-
+      Agencia de puesta en marcha interna que proporciona soluciones web y de
+      comercio electrónico a clientes de transporte.
+    summary4: >-
+      Coordiné con la junta, 25 departamentos y contratistas para relanzar
+      MyEscambia.com.
+    summary5: >-
+      Diseñé interfaces web y desarrollé integraciones de backend para servicios
+      de la ciudad.
+    title: Experiencia profesional
+    tools: Herramientas
+    web-development: desarrollo web
+    web-it-coordinator: Coordinador TI web
+    webmaster: Administrador de página web

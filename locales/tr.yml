@@ -33,3 +33,88 @@ intro:
 nav:
   sw_engineer: Yazılım Mühendisi
 not-found: Bulunamadı
+resume:
+  bio:
+    first-job:
+      chick-fil-a: Chick-fil-A
+      night-manager: Gece yoneticisi
+      title: İlk iş
+    job-title: Yönetici, Test Otomasyonu Mimarı/DevOps
+  education:
+    2001-pensacola-high-school: 2001 Pensacola Lisesi
+    2006-university-of-florida: 2006 Florida Üniversitesi
+    b-s-computer-science: |-
+      BS 
+      Bilgisayar Bilimi
+    education: Eğitim
+    international-baccalaureate: Uluslararası Bakalorya
+  experience:
+    '2007': '2007'
+    '2013': '2013'
+    '2014': '2014'
+    '2018': '2018'
+    '2020': '2020'
+    accomplishments: Başarılar
+    ci-cd-paradigms: CI/CD paradigmaları
+    city-of-pensacola: Pensacola Şehri
+    detail1: >-
+      Kritik operasyon uygulamaları için duman, akıl sağlığı, regresyon,
+      entegrasyon ve performans testi otomasyonundan sorumludur.
+    detail10: >-
+      Yeniden başlatılan Pensacola Uluslararası Havaalanı, Pensacola Şehri ve
+      Pensacola Polis Departmanı web siteleri.
+    detail11: Ayın Çalışanı, Ağustos 2010.
+    detail2: >-
+      Test çevikliğini desteklemek için tasarlanmış CI/CD araçları, işlem
+      hatları ve mikro hizmet mimarisi oluşturun ve yayınlayın.
+    detail3: >-
+      Otomasyon kullanan kritik operasyon uygulamalarının ilk dağıtımlarından
+      sorumludur.
+    detail4: >-
+      Kaynak denetimi iş akışı, CI/CD ve Git için tasarlanmış standartlar ve
+      belgeler.
+    detail5: WordPress için R L Carriers Shipping Rates uzantısının baş geliştiricisi.
+    detail6: >-
+      YouImpact DUI Victim Awareness video e-öğrenme platformunun lider
+      geliştiricisi.
+    detail7: >-
+      Navalimpianti USA, Inc yolcu gemisi uyumluluğu ve güvenlik uygulamasının
+      lider geliştiricisi.
+    detail8: >-
+      Bayındırlık ve Hayvan Barınağı departmanları için ilçe hizmetlerine
+      yönelik API entegrasyonları geliştirildi.
+    detail9: >-
+      Bir CMS arka ucunu özelleştirmek için Kamu Bilgilendirme Görevlisi ile
+      koordine edilmiştir.
+    dynamic-languages: Dinamik diller
+    escambia-county-board-of-county-commissioners: Escambia İlçe İlçe Komiserleri Kurulu
+    extra-skills: Ekstra Beceriler
+    interpreted-languages: yorumlanan diller
+    lead-automation-engineer: Baş Otomasyon Mühendisi
+    lead-full-stack-developer: Tam Yığın Geliştirici Lideri
+    present: Sunmak
+    professional-tools: Profesyonel araçlar
+    public-sector: Kamu sektörü
+    r-l-carriers: RL Taşıyıcılar
+    september-2013-and-ndash-present: Eylül 2013 \
+    static-languages: statik diller
+    summary1: >-
+      50 kişilik bir kalite departmanında test için 7 yazılım mühendisinden
+      oluşan bir ekip işe alındı ​​ve eğitildi
+    summary2: >-
+      Bir departman 100 geliştiricisi için .NET, Oracle ve TIBCO dağıtımlarını
+      destekleyen Azure Pipelines SDK kullanılarak tasarlanmış CI/CD araçları.
+    summary3: >-
+      Nakliye müşterilerine web ve e-ticaret çözümleri sunan dahili start-up
+      ajansı.
+    summary4: >-
+      MyEscambia.com'u yeniden başlatmak için yönetim kurulu, 25 departman ve
+      müteahhit ile koordine edildi.
+    summary5: >-
+      Web ön uçları tasarlandı ve şehir hizmetlerine arka uç entegrasyonları
+      geliştirildi.
+    title: Profesyonel deneyim
+    tools: Araçlar
+    web-development: web Geliştirme
+    web-it-coordinator: Web BT Koordinatörü
+    webmaster: web yöneticisi

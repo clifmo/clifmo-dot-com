@@ -25,3 +25,62 @@ intro:
 nav:
   sw_engineer: 软件工程师
 not-found: 未找到页面
+resume:
+  bio:
+    first-job:
+      chick-fil-a: 福来鸡
+      night-manager: 夜班经理
+      title: 第一份工作
+    job-title: 经理，测试自动化架构师/DevOps
+  education:
+    2001-pensacola-high-school: 2001 年彭萨科拉高中
+    2006-university-of-florida: 2006 佛罗里达大学
+    b-s-computer-science: |-
+      理学士
+      计算机科学
+    education: 教育
+    international-baccalaureate: 国际文凭
+  experience:
+    '2007': 2007年
+    '2013': '2013'
+    '2014': '2014'
+    '2018': '2018'
+    '2020': '2020'
+    accomplishments: 成就
+    ci-cd-paradigms: CI/CD 范式
+    city-of-pensacola: 彭萨科拉市
+    detail1: 负责关键操作应用程序的冒烟、健全性、回归、集成和性能测试自动化。
+    detail10: 重新启动彭萨科拉国际机场、彭萨科拉市和彭萨科拉警察局网站。
+    detail11: 本月最佳员工，2010 年 8 月。
+    detail2: 设计 CI/CD 工具、构建和发布管道以及微服务架构，以支持测试敏捷性。
+    detail3: 负责使用自动化首次部署关键操作应用程序。
+    detail4: 为源代码控制工作流、CI/CD 和 Git 设计标准和文档。
+    detail5: WordPress 的 R L Carriers Shipping Rates 扩展的首席开发人员。
+    detail6: YouImpact DUI Victim Awareness 视频电子学习平台的首席开发人员。
+    detail7: Navalimpianti USA, Inc 邮轮合规和安全应用程序的首席开发人员。
+    detail8: 为公共工程和动物收容所部门开发了与县级服务的 API 集成。
+    detail9: 与公共信息官协调定制 CMS 后端。
+    dynamic-languages: 动态语言
+    escambia-county-board-of-county-commissioners: 埃斯坎比亚县县长委员会
+    extra-skills: 额外技能
+    interpreted-languages: 口译语言
+    lead-automation-engineer: 首席自动化工程师
+    lead-full-stack-developer: 首席全栈开发人员
+    present: 展示
+    professional-tools: 专业工具
+    public-sector: 公共部门
+    r-l-carriers: R L 运营商
+    september-2013-and-ndash-present: 2013年九月 \
+    static-languages: 静态语言
+    summary1: 在一个 50 人的质量部门内聘请并培训了一支由 7 名软件工程师组成的测试团队
+    summary2: >-
+      使用支持 .NET、Oracle 和 TIBCO 部署的 Azure Pipelines SDK 为部门 100 名开发人员设计的 CI/CD
+      工具。
+    summary3: 为货运客户提供网络和电子商务解决方案的内部初创机构。
+    summary4: 与董事会、25 个部门和承包商协调，重新启动 MyEscambia.com。
+    summary5: 设计 Web 前端并开发与城市服务的后端集成。
+    title: 专业经验
+    tools: 工具
+    web-development: Web开发
+    web-it-coordinator: 网络 IT 协调员
+    webmaster: 站长

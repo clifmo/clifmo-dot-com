@@ -18,7 +18,7 @@
             Clifton Molina
           </h1>
           <h2 class="text-center text-xl font-light">
-            Manager, Test Automation Architect/DevOps
+            {{ t('resume.bio.job-title') }}
           </h2>
         </div>
 
@@ -65,41 +65,41 @@
 
         <div class="font-light text-lg px-2 mb-12">
           <h2 class="text-xl font-semibold mb-4">
-            Professional Experience
+            {{ t('resume.experience.title') }}
           </h2>
           <ul class="list-none">
             <li>
-              <label for="js-skill">Dynamic languages</label>
+              <label for="js-skill">{{ t('resume.experience.dynamic-languages') }}</label>
               <div class="w-full bg-slate-200 rounded-full h-2.5 dark:bg-slate-300">
                 <div class="bg-desertsun h-2.5 rounded-full w-80%" />
               </div>
             </li>
             <li>
-              <label for="react-skill">Web development</label>
+              <label for="react-skill">{{ t('resume.experience.web-development') }}</label>
               <div class="w-full bg-slate-200 rounded-full h-2.5 dark:bg-slate-300">
                 <div class="bg-desertsun h-2.5 rounded-full w-90%" />
               </div>
             </li>
             <li>
-              <label for="nextjs-skill">CI/CD paradigms</label>
+              <label for="nextjs-skill">{{ t('resume.experience.ci-cd-paradigms') }}</label>
               <div class="w-full bg-slate-200 rounded-full h-2.5 dark:bg-slate-300">
                 <div class="bg-desertsun h-2.5 rounded-full w-75%" />
               </div>
             </li>
             <li>
-              <label for="vue-skill">Static languages</label>
+              <label for="vue-skill">{{ t('resume.experience.static-languages') }}</label>
               <div class="w-full bg-slate-200 rounded-full h-2.5 dark:bg-slate-300">
                 <div class="bg-desertsun h-2.5 rounded-full w-60%" />
               </div>
             </li>
             <li>
-              <label for="eleventy-skill">Interpreted languages</label>
+              <label for="eleventy-skill">{{ t('resume.experience.interpreted-languages') }}</label>
               <div class="w-full bg-slate-200 rounded-full h-2.5 dark:bg-slate-300">
                 <div class="bg-desertsun h-2.5 rounded-full w-70%" />
               </div>
             </li>
             <li>
-              <div>Professional Tools</div>
+              <div>{{ t('resume.experience.professional-tools') }}</div>
               <p class="leading-8">
                 <span resume-tool>Groovy</span>
                 <span resume-tool>PowerShell</span>
@@ -112,7 +112,7 @@
               </p>
             </li>
             <li>
-              <div>Extra Skills</div>
+              <div>{{ t('resume.experience.extra-skills') }}</div>
               <p class="leading-8">
                 <span resume-tool>TypeScript</span>
                 <span resume-tool>PHP</span>
@@ -129,68 +129,68 @@
 
         <div class="font-light text-lg px-2 mb-12">
           <h2 class="text-xl font-semibold mb-4">
-            Education
+            {{ t('resume.education.education') }}
           </h2>
           <h6 class="font-semibold">
-            B.S. Computer Science
+            {{ t('resume.education.b-s-computer-science') }}
           </h6>
-          <p>2006 University of Florida</p>
+          <p>{{ t('resume.education.2006-university-of-florida') }}</p>
           <hr class="mt-3 mb-3 opacity-10">
           <h6 class="font-semibold">
-            International Baccalaureate
+            {{ t('resume.education.international-baccalaureate') }}
           </h6>
-          <p>2001 Pensacola High School</p>
+          <p>{{ t('resume.education.2001-pensacola-high-school') }}</p>
         </div>
 
         <div class="font-light text-lg px-2 mb-12">
           <h3 class="text-lg font-semibold mb-4">
-            First Job
+            {{ t('resume.bio.first-job.title') }}
           </h3>
           <h6 class="text-md font-semibold">
-            Chick-fil-A
+            Chick-fil-a
           </h6>
-          <p>Night Manager</p>
+          <p>{{ t('resume.bio.first-job.night-manager') }}</p>
         </div>
       </div>
-      <div class="content w-full p-12 dark:bg-slate-700">
+      <div class="content w-full p-6 md:p-12 dark:bg-slate-700">
         <div id="experience" class="prose">
           <h2 class="section-headline">
             R+L Carriers
           </h2>
           <section class="mb-6">
             <div class="lg:inline-block lg:w-1/3 lg:align-top italic mb-2">
-              September 2013 &ndash; Present
+              {{ t('resume.experience.2013') }} &ndash; {{ t('resume.experience.present') }}
             </div>
           </section>
           <div>
             <h3>
-              Manager, Test Automation Architect/DevOps
+              {{ t('resume.bio.job-title') }}
             </h3>
             <section class="mb-6">
               <div class="lg:inline-block lg:w-3/12 lg:align-top italic mb-2">
-                2020 &ndash; Present
+                {{ t('resume.experience.2020') }} &ndash; {{ t('resume.experience.present') }}
               </div>
               <div class="lg:inline-block lg:w-9/12 w-full md:text-left">
-                Hired and trained a team of 7 software engineers in test within a 50-person quality department
+                {{ t('resume.experience.summary1') }}
               </div>
             </section>
             <section class="mb-3 text-center items-center">
               <div class="lg:inline-block lg:w-3/12 lg:align-top italic mb-2">
-                Accomplishments
+                {{ t('resume.experience.accomplishments') }}
               </div>
               <div class="lg:inline-block lg:w-9/12 w-full mt-0 py-0 not-prose  md:text-left items-center">
-                Responsible for smoke, sanity, regression, integration and performance test automation for critical operations applications.
+                {{ t('resume.experience.detail1') }}
               </div>
             </section>
             <section class="mb-6 text-center items-center">
               <div class="lg:inline-block lg:w-3/12 lg:align-top italic mb-2" />
               <div class="lg:inline-block lg:w-9/12 w-full mt-0 py-0 not-prose  md:text-left items-center">
-                <span>Engineered CI/CD tooling, build and release pipelines and micro-service architecture to support test agility.</span>
+                {{ t('resume.experience.detail2') }}
               </div>
             </section>
             <section class="mb-6">
               <div class="lg:inline-block lg:w-3/12 lg:align-top italic mb-2">
-                Tools
+                {{ t('resume.experience.tools') }}
               </div>
               <div class="lg:inline-block lg:w-9/12 w-full">
                 <span resume-tool>Katalon Studio</span>
@@ -203,33 +203,33 @@
         <div id="projects" class="prose">
           <div class="mb-16">
             <h3 class="pl-7">
-              Lead Automation Engineer
+              {{ t('resume.experience.lead-automation-engineer') }}
             </h3>
             <section class="mb-6">
               <div class="lg:inline-block lg:w-3/12 lg:align-top italic mb-2">
-                2018 &ndash; 2020
+                {{ t('resume.experience.2018') }} &ndash; {{ t('resume.experience.2020') }}
               </div>
               <div class="lg:inline-block lg:w-9/12 w-full md:text-left">
-                Engineered CI/CD tooling using Azure Pipelines SDK supporting .NET, Oracle and TIBCO deployments for a department 100 developers.
+                {{ t('resume.experience.summary2') }}
               </div>
             </section>
             <section class="mb-3">
               <div class="lg:inline-block lg:w-3/12 lg:align-top italic mb-2">
-                Accomplishments
+                {{ t('resume.experience.accomplishments') }}
               </div>
               <div class="lg:inline-block lg:w-9/12 w-full mt-0 py-0 not-prose md:text-left">
-                Responsible for first deployments of critical operations applications using automation.
+                {{ t('resume.experience.detail3') }}
               </div>
             </section>
             <section class="mb-6">
               <div class="lg:inline-block lg:w-3/12 lg:align-top italic mb-2" />
               <div class="lg:inline-block lg:w-9/12 w-full mt-0 py-0 not-prose md:text-left">
-                Developed department standards and documentation for source control workflow, CI/CD, and Git.
+                {{ t('resume.experience.detail4') }}
               </div>
             </section>
             <section class="mb-6">
               <div class="lg:inline-block lg:w-3/12 lg:align-top italic mb-2">
-                Tools
+                {{ t('resume.experience.tools') }}
               </div>
               <div class="lg:inline-block lg:w-9/12 w-full">
                 <span resume-tool>.NET Framework</span>
@@ -242,39 +242,39 @@
         <div id="projects" class="prose">
           <div class="mb-16">
             <h3 id="chrisko-headline">
-              Lead Full-Stack Developer
+              {{ t('resume.experience.lead-full-stack-developer') }}
             </h3>
             <section class="mb-6">
               <div class="lg:inline-block lg:w-3/12 lg:align-top italic mb-2">
-                2014 - 2018
+                {{ t('resume.experience.2014') }} &ndash; {{ t('resume.experience.2018') }}
               </div>
               <div class="lg:inline-block lg:w-9/12 w-full md:text-left">
-                Internal start-up agency providing web and e-commerce solutions to freight clients.
+                {{ t('resume.experience.summary3') }}
               </div>
             </section>
             <section class="mb-3">
               <div class="lg:inline-block lg:w-3/12 lg:align-top italic mb-2">
-                Accomplishments
+                {{ t('resume.experience.accomplishments') }}
               </div>
               <div class="lg:inline-block lg:w-9/12 w-full mt-0 py-0 not-prose md:text-left">
-                Lead developer of R+L Carriers Shipping Rates extension for WordPress.
+                {{ t('resume.experience.detail5') }}
               </div>
             </section>
             <section class="mb-3">
               <div class="lg:inline-block lg:w-3/12 lg:align-top italic mb-2" />
               <div class="lg:inline-block lg:w-9/12 w-full mt-0 py-0 not-prose md:text-left">
-                Lead developer of YouImpact DUI Victim Awareness video e-learning platform.
+                {{ t('resume.experience.detail6') }}
               </div>
             </section>
             <section class="mb-6">
               <div class="lg:inline-block lg:w-3/12 lg:align-top italic mb-2" />
               <div class="lg:inline-block lg:w-9/12 w-full mt-0 py-0 not-prose md:text-left">
-                Lead developer of Navalimpianti USA, Inc cruise line compliance and safety app.
+                {{ t('resume.experience.detail7') }}
               </div>
             </section>
             <section class="mb-6">
               <div class="lg:inline-block lg:w-3/12 lg:align-top italic mb-2">
-                Tools
+                {{ t('resume.experience.tools') }}
               </div>
               <div class="lg:inline-block lg:w-9/12 w-full">
                 <span resume-tool>Laravel</span>
@@ -289,64 +289,64 @@
         <hr class="mt-8 mb-12">
         <div id="experience" class="prose">
           <h2 class="section-headline">
-            Public Sector
+            {{ t('resume.experience.public-sector') }}
           </h2>
           <section class="mb-6">
             <div class="lg:inline-block lg:w-1/3 lg:align-top italic mb-2">
-              2007 &ndash; 2014
+              {{ t('resume.experience.2007') }} &ndash; {{ t('resume.experience.2014') }}
             </div>
           </section>
           <div>
             <h3>
-              Escambia County Board of County Commissioners
+              {{ t('resume.experience.escambia-county-board-of-county-commissioners') }}
             </h3>
             <section class="mb-6">
               <div class="lg:inline-block lg:w-3/12 lg:align-top italic mb-2">
-                Web IT Coordinator
+                {{ t('resume.experience.web-it-coordinator') }}
               </div>
               <div class="lg:inline-block lg:w-9/12 w-full md:text-left">
-                Coordinated with the board, 25 departments and contractors to relaunch MyEscambia.com.
+                {{ t('resume.experience.summary4') }}
               </div>
             </section>
             <section class="mb-3">
               <div class="lg:inline-block lg:w-3/12 lg:align-top italic mb-2">
-                Accomplishments
+                {{ t('resume.experience.accomplishments') }}
               </div>
               <div class="lg:inline-block lg:w-9/12 w-full mt-0 py-0 not-prose md:text-left">
-                Developed API integrations to county services for Public Works and Animal Shelter departments.
+                {{ t('resume.experience.detail8') }}
               </div>
             </section>
             <section class="mb-6">
               <div class="lg:inline-block lg:w-3/12 lg:align-top italic mb-2" />
               <div class="lg:inline-block lg:w-9/12 w-full mt-0 py-0 not-prose md:text-left">
-                Coordinated with the Public Information Officer to customize a CMS backend.
+                {{ t('resume.experience.detail9') }}
               </div>
             </section>
           </div>
           <div>
             <h3>
-              City of Pensacola
+              {{ t('resume.experience.city-of-pensacola') }}
             </h3>
             <section class="mb-6">
               <div class="lg:inline-block lg:w-3/12 lg:align-top italic mb-2">
-                Webmaster
+                {{ t('resume.experience.webmaster') }}
               </div>
               <div class="lg:inline-block lg:w-9/12 w-full md:text-left">
-                Designed web front-ends and developed backend integrations to city services.
+                {{ t('resume.experience.summary5') }}
               </div>
             </section>
             <section class="mb-3">
               <div class="lg:inline-block lg:w-3/12 lg:align-top italic mb-2">
-                Accomplishments
+                {{ t('resume.experience.accomplishments') }}
               </div>
               <div class="lg:inline-block lg:w-9/12 w-full mt-0 py-0 not-prose md:text-left">
-                Employee of the Month &ndash; August 2010
+                {{ t('resume.experience.detail10') }}
               </div>
             </section>
             <section class="mb-6">
               <div class="lg:inline-block lg:w-3/12 lg:align-top italic mb-2" />
               <div class="lg:inline-block lg:w-9/12 w-full mt-0 py-0 not-prose md:text-left">
-                Relaunched Pensacola International Airport, City of Pensacola and Pensacola Police Department websites.
+                {{ t('resume.experience.detail11') }}
               </div>
             </section>
           </div>
