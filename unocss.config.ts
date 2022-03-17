@@ -13,8 +13,8 @@ export default defineConfig({
   theme: {
     colors: {
       'very-cool': '#000',
-      'coral':'#ff8882',
-      'purplehaze':'#543855',
+      'coral': '#ff8882',
+      'purplehaze': '#543855',
       'tan': '#e88d72',
       'desertsun': '#fbb574',
     },
@@ -33,6 +33,7 @@ export default defineConfig({
     ['btn-clifmo-slate', 'ring-slate-100 hover:bg-slate-400 active:bg-slate-500 bg-slate-500/90 shadow-lg shadow-slate-100/40 hover:shadow-slate-300/40 active:shadow-slate-400/40 text-slate-10'],
     ['btn-old', 'bg-indigo-700 text-gray-800 bg-gray-100 dark:bg-gray-600 no-underline px-4 py-3 shadow-lg shadow-gray-500/30 dark:shadow-gray-700/60 rounded not-prose'],
     ['btn-salmon', 'text-slate-50 dark:text-slate-100 bg-coral dark:bg-tan no-underline px-4 py-3 shadow-lg shadow-rose-300/30 dark:shadow-xl dark:shadow-none rounded not-prose'],
+    ['snap-project', 'snap-start w-96 flex-shrink-0 h-full flex items-center justify-center text-8xl mx-auto bg-black h-96 py-24 my-24 mx-24 block shadow-lg shadow-gray-500/40 dark:shadow-none rounded-3xl'],
   ],
   presets: [
     presetUno(),
