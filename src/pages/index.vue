@@ -30,6 +30,9 @@ const { t } = useI18n()
       </div>
     </div>
   </div>
+  <div id="projects">
+    <Project />
+  </div>
 </template>
 
 <route lang="yaml">
