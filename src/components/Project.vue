@@ -1,16 +1,8 @@
 <script setup lang="ts">
-// const props = defineProps({
-//   projects: Array,
-// })
-
-const projects = [
-  { id: 1, name: 'YouImpact Victim Impact Panel', desc: 'Video-based web app used in DUI sentencing in multiple states.', img: '/projects/yi.png', tags: ['Laravel', 'NGIИX', 'Linode'], link: 'https://clifmo.com' },
-  { id: 2, name: 'Mo\'blog by Kriftonite', desc: 'Family blog website.', img: '/projects/moblog.png', tags: ['GatsbyJS', 'Netlify', 'Contentful'], link: 'https://clifmo.com' },
-  { id: 3, name: 'ClifMo dot com', desc: 'Personal and professional website.', img: '/projects/clifmo.png', tags: ['Vue3', 'Vite', 'TypeScript'], link: 'https://clifmo.com' },
-  { id: 4, name: 'R+L Carriers Shipping Rates', desc: 'Integrate R+L Carriers freight shipping rates into WordPress e-commerce websites.', img: '/projects/woo.png', tags: ['WordPress', 'WooCommerce'], link: 'https://clifmo.com' },
-  { id: 5, name: 'Navalimpianti USA', desc: 'Mobile-first web application used on cruise ship decks.', img: '/projects/navi.png', tags: ['Slim', 'Linode'], link: 'https://clifmo.com' },
-  { id: 6, name: 'International Kiko Goat Association', desc: 'Pedigree goat registry application.', img: '/projects/ikga.png', tags: ['Linode', 'Laravel'], link: 'https://clifmo.com' },
-]
+import { useProjectStore } from '../stores/project'
+// import type { Project } from '../models/project.model'
+const projectStore = useProjectStore()
+const projects = projectStore.projects
 
 </script>
 
@@ -18,30 +10,30 @@ const projects = [
   <div class="container mt-24 flex justify-between items-center mx-auto px-4 md:px-4 lg:px-24 w-full">
     <section class="w-full">
       <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mt-6">
-        <div v-for="project in projects" :key="project.id" class="project shadow-lg bg-background-light">
-          <div class="w-full rounded-sm p-6 flex flex-col justify-between leading-normal">
-            <div>
+        <div v-for="project in projects" :key="project.id" class="project bg-background-light">
+          <div class="w-full p-6 flex flex-col justify-between leading-normal">
+            <div class="h-28">
               <div class="my-4 clearfix">
                 <a class="float-right" :href="project.link">
-                  <div i-carbon-dicom-overlay />
+                  <div text-2xl :class="project.icon" />
                 </a>
               </div>
-              <div class="text-primary-light font-bold text-xl mb-2">
+              <div class="text-primary-light font-bold text-xl mb-4">
                 {{ project.name }}
               </div>
-              <p class="text-label-info text-base">
-                {{ project.desc }}
+              <p class="text-label-info text-base mb-4">
+                {{ project.summary }}
               </p>
             </div>
             <span class="w-72 h-72 mx-auto block shadow-lg shadow-gray-500/40 dark:shadow-none rounded-3xl">
-              <img :src="project.img">
+              <img :src="project.img" class="rounded-3xl">
             </span>
 
-            <div class="pt-10 pb-4">
+            <div class="pt-8 pb-2">
               <span
                 v-for="(item, index) in project.tags"
                 :key="index"
-                class="resume-tool"
+                class="project-tag"
                 :index="index"
                 :tagData="item"
               >{{ item }}
@@ -59,7 +51,17 @@ const projects = [
 </template>
 
 <style scoped>
-.project {
+.project-tag:first-child::before {
+  content: ''
+}
+.project-tag::before {
+  content: '  |  '
+}
+/**
+ * Animaitons
+ */
+ /*
+ .project {
     display: grid;
     animation: mouseOut 0.3s ease-in;
 }
@@ -72,10 +74,6 @@ const projects = [
         width: 100%;
     }
 }
-/**
- * Animaitons
- */
- /*
 @keyframes mouseOver {
     0% {
         top: 0;

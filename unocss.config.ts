@@ -12,13 +12,13 @@ import {
 export default defineConfig({
   theme: {
     colors: {
-      'very-cool': '#000',
-      'coral':'#ff8882',
-      'purplehaze':'#543855',
-      'tan': '#e88d72',
-      'desertsun': '#fbb574',
+      coral: '#ff8882',
+      purplehaze: '#543855',
+      tan: '#e88d72',
+      desertsun: '#fbb574',
     },
   },
+  include: ['./src/**/*.vue', './src/**/*.js', './src/**/*.ts'],
   rules: [
     ['bg-clif-purple', { background: '#887799' }],
     ['xxs', { fontsize: '0.66rem' }],
@@ -47,34 +47,7 @@ export default defineConfig({
       fonts: {
         sans: 'Montserrat',
         serif: 'Cabin',
-        // these will extend the default theme
-        // sans: 'Montserrat',
         mono: ['Fira Code', 'Fira Mono:400,700'],
-        // serif: '',
-        // // custom ones
-        // lobster: 'Lobster',
-        // montserrat: [
-        //   {
-        //     name: 'Montserrat',
-        //     weights: ['600', '700'],
-        //     italic: true,
-        //   },
-        //   {
-        //     name: 'serif',
-        //     provider: 'none',
-        //   },
-        // ],
-        // cabin: [
-        //   {
-        //     name: 'Cabin',
-        //     weights: ['400', '700'],
-        //     italic: true,
-        //   },
-        //   {
-        //     name: 'sans-serif',
-        //     provider: 'none',
-        //   },
-        // ],
       },
     }),
   ],
