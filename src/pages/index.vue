@@ -1,5 +1,108 @@
 <script setup lang="ts">
 const { t } = useI18n()
+
+const myColors = ['#1f77b4', '#629fc9', '#94bedb', '#c9e0ef'];
+const skills = [{
+          "name": "Groovy",
+          "value": 26
+        },
+        {
+          "name": "Java",
+          "value": 22
+        },
+        {
+          "name": "C#",
+          "value": 24
+        },
+        {
+          "name": "PowerShell",
+          "value": 14
+        },
+        {
+          "name": "TypeScript",
+          "value": 12
+        },
+        {
+          "name": "YAML",
+          "value": 9
+        },
+        {
+          "name": "PL/SQL",
+          "value": 9
+        },
+        {
+          "name": "SQL",
+          "value": 9
+        },
+        {
+          "name": ".NET",
+          "value": 6
+        },
+        {
+          "name": "Selenium",
+          "value": 6
+        },
+        {
+          "name": "Azure Pipelines SDK",
+          "value": 6
+        },
+        {
+          "name": "Azure DevOps REST API",
+          "value": 6
+        },
+        {
+          "name": "Node.js",
+          "value": 6
+        },
+        {
+          "name": "Katalon Studio",
+          "value": 6
+        },
+        {
+          "name": "Apache JMeter",
+          "value": 6
+        },
+        {
+          "name": "VS Code",
+          "value": 6
+        },
+        {
+          "name": "Visual Studio",
+          "value": 6
+        },
+        {
+          "name": "Oracle Database",
+          "value": 6
+        },
+        {
+          "name": "SQLite",
+          "value": 6
+        },
+        {
+          "name": "IntelliJ IDEA",
+          "value": 6
+        },
+        {
+          "name": "Git",
+          "value": 6
+        },
+        {
+          "name": "NPM",
+          "value": 6
+        },
+        {
+          "name": "IIS",
+          "value": 6
+        },
+        {
+          "name": "Windows",
+          "value": 6
+        },
+        {
+          "name": "WSL",
+          "value": 6
+        }
+      ];
 </script>
 
 <template>
@@ -28,6 +131,25 @@ const { t } = useI18n()
           <a href="/background" class="btn-salmon">{{t('button.contact_me')}}</a>
         </div>
       </div>
+    </div>
+
+    
+  </div>
+  <div class="py-12 px-6 md:py-24 bg-gray-200 dark:bg-gray-400 relative z-10">
+    <div class="container">
+      <div class="w-full">
+        <h3 class="text-2xl md:text-4xl text-grey-darkest mb-6">
+          Tools &amp; Frameworks
+        </h3>
+      </div>
+      <WC
+        class=""
+        :data="skills"
+        nameKey="name"
+        valueKey="value"
+        :color="myColors"
+      >
+        </WC>
     </div>
   </div>
 </template>

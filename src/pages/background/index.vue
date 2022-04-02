@@ -1,4 +1,6 @@
 <template>
+  <div id="app">
+    
   <div class="container mx-auto max-w-screen-xl mb-20 md:mt-20">
     <main
       id="wrapper"
@@ -179,19 +181,114 @@
                 Accomplishments
               </div>
               <ul class="lg:inline-block lg:w-8/12 w-full mt-0 py-0">
-                <li>Responsible for Dock and Line Haul operations smoke, regression, and performance test automation.</li>
+                <li>Responsible for critical freight operations smoke, regression, and performance test automation.</li>
                 <li>Engineered CI/CD tooling, build and release pipelines and micro-service architecture.</li> 
                 <li>Advised technology department in DevOps, CI/CD and automation practices.</li> 
               </ul> 
+            </section>
+            <section class="mb-6">
+                  <WC
+                    :data="skills"
+                    nameKey="name"
+                    valueKey="value"
+                    :color="myColors"
+                    >
+                  </WC>
+            </section>
+            <section class="mb-6">
+              <div class="lg:inline-block lg:w-3/12 lg:align-top italic mb-2">
+                Languages
+              </div>
+              <div class="lg:inline-block lg:w-8/12 w-full">
+                <span resume-tool>
+                  Groovy
+                </span>
+                <span resume-tool>
+                  Java
+                </span>
+                <span resume-tool>
+                  C&hash;
+                </span>
+                <span resume-tool>
+                  PowerShell
+                </span>
+                <span resume-tool>
+                  TypeScript
+                </span>
+                <span resume-tool>
+                  YAML
+                </span>
+                <span resume-tool>
+                  PL/SQL
+                </span>
+                <span resume-tool>
+                  SQL
+                </span>
+              </div>
+            </section>
+            <section class="mb-6">
+              <div class="lg:inline-block lg:w-3/12 lg:align-top italic mb-2">
+                Frameworks
+              </div>
+              <div class="lg:inline-block lg:w-8/12 w-full">
+                <span resume-tool>
+                  .NET Framework
+                </span>
+                <span resume-tool>
+                  Selenium
+                </span>
+                <span resume-tool>
+                  Azure Pipelines SDK
+                </span>
+                <span resume-tool>
+                  Azure DevOps Server REST API
+                </span>
+                <span resume-tool>
+                  Node.js
+                </span>
+              </div>
             </section>
             <section class="mb-6">
               <div class="lg:inline-block lg:w-3/12 lg:align-top italic mb-2">
                 Tools
               </div>
               <div class="lg:inline-block lg:w-8/12 w-full">
-                <span resume-tool><a class="not-prose" href="https://www.katalon.com/katalon-studio/" target="_blank" rel="noopener noreferrer">Katalon Studio</a></span>
-                <span resume-tool><a class="not-prose" href="https://azure.microsoft.com/en-us/services/devops/server/" target="_blank" rel="noopener noreferrer">Azure DevOps Server</a></span>
-                <span resume-tool><a class="not-prose" href="https://jmeter.apache.org/" target="_blank" rel="noopener noreferrer">Apache JMeter</a></span>
+                <span resume-tool>
+                  Katalon Studio
+                </span>
+                <span resume-tool>
+                  Apache JMeter
+                </span>
+                <span resume-tool>
+                  VS Code
+                </span>
+                <span resume-tool>
+                  Visual Studio
+                </span>
+                <span resume-tool>
+                  Oracle Database
+                </span>
+                <span resume-tool>
+                  SQLite
+                </span>
+                <span resume-tool>
+                  JetBrains Intellij IDEA
+                </span>
+                <span resume-tool>
+                  Git
+                </span>
+                <span resume-tool>
+                  NPM
+                </span>
+                <span resume-tool>
+                  IIS
+                </span>
+                <span resume-tool>
+                  Windows
+                </span>
+                <span resume-tool>
+                  WSL
+                </span>
               </div>
             </section>
           </div>
@@ -324,10 +421,126 @@
       </div>
     </main>
   </div>
-</template>>
+  </div>
+</template>
 
-<script setup lang="ts">
+<script>
 
+export default {
+  name: 'wrapper',
+  components: {
+    
+  },
+  methods: {
+
+  },
+  data() {
+    return {
+      myColors: ['#1f77b4', '#629fc9', '#94bedb', '#c9e0ef'],
+      skills: [{
+          "name": "Groovy",
+          "value": 26
+        },
+        {
+          "name": "Java",
+          "value": 22
+        },
+        {
+          "name": "C#",
+          "value": 24
+        },
+        {
+          "name": "PowerShell",
+          "value": 14
+        },
+        {
+          "name": "TypeScript",
+          "value": 12
+        },
+        {
+          "name": "YAML",
+          "value": 9
+        },
+        {
+          "name": "PL/SQL",
+          "value": 9
+        },
+        {
+          "name": "SQL",
+          "value": 9
+        },
+        {
+          "name": ".NET",
+          "value": 6
+        },
+        {
+          "name": "Selenium",
+          "value": 6
+        },
+        {
+          "name": "Azure Pipelines SDK",
+          "value": 6
+        },
+        {
+          "name": "Azure DevOps REST API",
+          "value": 6
+        },
+        {
+          "name": "Node.js",
+          "value": 6
+        },
+        {
+          "name": "Katalon Studio",
+          "value": 6
+        },
+        {
+          "name": "Apache JMeter",
+          "value": 6
+        },
+        {
+          "name": "VS Code",
+          "value": 6
+        },
+        {
+          "name": "Visual Studio",
+          "value": 6
+        },
+        {
+          "name": "Oracle Database",
+          "value": 6
+        },
+        {
+          "name": "SQLite",
+          "value": 6
+        },
+        {
+          "name": "IntelliJ IDEA",
+          "value": 6
+        },
+        {
+          "name": "Git",
+          "value": 6
+        },
+        {
+          "name": "NPM",
+          "value": 6
+        },
+        {
+          "name": "IIS",
+          "value": 6
+        },
+        {
+          "name": "Windows",
+          "value": 6
+        },
+        {
+          "name": "WSL",
+          "value": 6
+        }
+      ]
+    }
+  }
+}
 </script>
 
 <style>

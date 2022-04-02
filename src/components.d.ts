@@ -8,6 +8,7 @@ declare module 'vue' {
     Footer: typeof import('./components/Footer.vue')['default']
     Navbar: typeof import('./components/Navbar.vue')['default']
     README: typeof import('./components/README.md')['default']
+    WC: typeof import('./components/WC.vue')['default']
   }
 }
 
