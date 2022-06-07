@@ -5,7 +5,7 @@
 useHead({
   title: 'Clifton Molina',
   meta: [
-    { name: 'description', content: 'Software engineer generalist.' },
+    { name: 'description', content: 'Software engineering generalist.' },
   ],
 })
 </script>
