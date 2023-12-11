@@ -54,8 +54,8 @@
             <a href="https://www.linkedin.com/in/ClifMo/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
           </div>
           <div class="flex items-center my-3">
-            <div class="i-carbon-logo-twitter mr-2" />
-            <a href="https://twitter.com/ClifMo" target="_blank" rel="noopener noreferrer">@ClifMo</a>
+            <div class="i-carbon-at mr-2" />
+            <a href="https://threads.net/ClifM0" target="_blank" rel="noopener noreferrer">@ClifM0</a>
           </div>
           <div class="flex items-center my-3">
             <div class="i-carbon-globe mr-2" />
