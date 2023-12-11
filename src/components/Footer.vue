@@ -77,4 +77,7 @@ const toggleLocales = () => {
       <div i-carbon-logo-github />
     </a>
   </nav>
+  <p text-xs mt-6>
+    clifmo.com v0.0.5
+  </p>
 </template>
