@@ -13,17 +13,15 @@ footer:
 hero:
   heading: Me in 10 Seconds
   sentence-1: >-
-    I manage Test Automation engineers using Katalon Studio with Azure
-    Pipelines.
+    I manage Test Automation engineers for a Global Freight Transportation and Logistics company.
   sentence-2: >-
-    I've been a Laravel artisan, a .NET engineer, a WooCommerce ninja, and a
-    Drupal developer.
+    I've worked to promote DUI victim awareness, solve pet homelessness, and
+    earn time in the yoga studio.
   sentence-3: >-
     I'm a Florida native, a life-long Florida Gator, and a proud employee of R+L
     Carriers.
   sentence-4: >-
-    I've worked to promote DUI victim awareness, solve pet homelessness, and
-    earn time in the yoga studio.
+    I host this site using Traefik to proxy traffic to a Docker container in Debian VM running on a Proxmox host.
 intro:
   aka: Also known as
   desc: Opinionated Vite Starter Template
