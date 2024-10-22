@@ -155,7 +155,7 @@
       <div class="content w-full p-6 md:p-12 dark:bg-slate-700">
         <div id="experience" class="prose">
           <h2 class="section-headline">
-            R+L Carriers
+            {{ t('resume.experience.r-l-carriers') }}
           </h2>
           <section class="mb-6">
             <div class="lg:inline-block lg:w-1/3 lg:align-top italic mb-2">
@@ -176,7 +176,7 @@
             </section>
             <section class="mb-3 text-center items-center">
               <div class="lg:inline-block lg:w-3/12 lg:align-top italic mb-2">
-                {{ t('resume.experience.accomplishments') }}
+                
               </div>
               <div class="lg:inline-block lg:w-9/12 w-full mt-0 py-0 not-prose  md:text-left items-center">
                 {{ t('resume.experience.detail1') }}
@@ -190,12 +190,14 @@
             </section>
             <section class="mb-6">
               <div class="lg:inline-block lg:w-3/12 lg:align-top italic mb-2">
-                {{ t('resume.experience.tools') }}
+                
               </div>
               <div class="lg:inline-block lg:w-9/12 w-full">
-                <span resume-tool>Katalon Studio</span>
-                <span resume-tool>Azure DevOps Server</span>
-                <span resume-tool>Apache JMeter</span>
+                <span resume-tool>Selenium</span>
+                <span resume-tool>Groovy</span>
+                <span resume-tool>Azure</span>
+                <span resume-tool>VS Code</span>
+                <span resume-tool>Appium</span>
               </div>
             </section>
           </div>
@@ -215,7 +217,7 @@
             </section>
             <section class="mb-3">
               <div class="lg:inline-block lg:w-3/12 lg:align-top italic mb-2">
-                {{ t('resume.experience.accomplishments') }}
+                
               </div>
               <div class="lg:inline-block lg:w-9/12 w-full mt-0 py-0 not-prose md:text-left">
                 {{ t('resume.experience.detail3') }}
@@ -229,12 +231,14 @@
             </section>
             <section class="mb-6">
               <div class="lg:inline-block lg:w-3/12 lg:align-top italic mb-2">
-                {{ t('resume.experience.tools') }}
+                
               </div>
               <div class="lg:inline-block lg:w-9/12 w-full">
-                <span resume-tool>.NET Framework</span>
-                <span resume-tool>Azure Pipeline Tasks SDK</span>
+                <span resume-tool>DOTNET</span>
+                <span resume-tool>Azure Pipeline SDK</span>
                 <span resume-tool>Powershell</span>
+                <span resume-tool>TypeScript</span>
+                <span resume-tool>YAML</span>
               </div>
             </section>
           </div>
@@ -254,7 +258,7 @@
             </section>
             <section class="mb-3">
               <div class="lg:inline-block lg:w-3/12 lg:align-top italic mb-2">
-                {{ t('resume.experience.accomplishments') }}
+                
               </div>
               <div class="lg:inline-block lg:w-9/12 w-full mt-0 py-0 not-prose md:text-left">
                 {{ t('resume.experience.detail5') }}
@@ -274,7 +278,7 @@
             </section>
             <section class="mb-6">
               <div class="lg:inline-block lg:w-3/12 lg:align-top italic mb-2">
-                {{ t('resume.experience.tools') }}
+                
               </div>
               <div class="lg:inline-block lg:w-9/12 w-full">
                 <span resume-tool>Laravel</span>
@@ -308,20 +312,6 @@
                 {{ t('resume.experience.summary4') }}
               </div>
             </section>
-            <section class="mb-3">
-              <div class="lg:inline-block lg:w-3/12 lg:align-top italic mb-2">
-                {{ t('resume.experience.accomplishments') }}
-              </div>
-              <div class="lg:inline-block lg:w-9/12 w-full mt-0 py-0 not-prose md:text-left">
-                {{ t('resume.experience.detail8') }}
-              </div>
-            </section>
-            <section class="mb-6">
-              <div class="lg:inline-block lg:w-3/12 lg:align-top italic mb-2" />
-              <div class="lg:inline-block lg:w-9/12 w-full mt-0 py-0 not-prose md:text-left">
-                {{ t('resume.experience.detail9') }}
-              </div>
-            </section>
           </div>
           <div>
             <h3>
@@ -333,14 +323,6 @@
               </div>
               <div class="lg:inline-block lg:w-9/12 w-full md:text-left">
                 {{ t('resume.experience.summary5') }}
-              </div>
-            </section>
-            <section class="mb-3">
-              <div class="lg:inline-block lg:w-3/12 lg:align-top italic mb-2">
-                {{ t('resume.experience.accomplishments') }}
-              </div>
-              <div class="lg:inline-block lg:w-9/12 w-full mt-0 py-0 not-prose md:text-left">
-                {{ t('resume.experience.detail10') }}
               </div>
             </section>
             <section class="mb-6">
