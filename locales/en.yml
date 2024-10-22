@@ -56,18 +56,15 @@ resume:
     ci-cd-paradigms: CI/CD paradigms
     city-of-pensacola: City of Pensacola
     detail1: >-
-      Responsible for smoke, sanity, regression, integration and performance
-      test automation for critical operations applications.
+      Scaled automated regression testing capacity to 2,000+ daily tests (175+ hours/month) through Azure Pipelines, reducing manual testing effort by 80%.
     detail10: >-
       Relaunched Pensacola International Airport, City of Pensacola and
       Pensacola Police Department websites.
     detail11: Employee of the Month, August 2010.
     detail2: >-
-      Engineered CI/CD tooling, build and release pipelines and micro-service
-      architecture to support test agility.
+      Designed and implemented enterprise-wide CI/CD infrastructure and microservice architecture, achieving company-first automated deployments.
     detail3: >-
-      Responsible for first deployments of critical operations applications
-      using automation.
+      Designed and implemented enterprise-wide CI/CD infrastructure to achieve company-first automated code deployments.
     detail4: >-
       Designed standards and documentation for source control workflow, CI/CD,
       and Git.
@@ -97,7 +94,7 @@ resume:
     september-2013-and-ndash-present: September 2013 \&ndash;\ Present
     static-languages: Static languages
     summary1: >-
-      Manages 10 Groovy test engineers responsible for all aspects freight operations platform and mobile application testing.
+      Lead a 10-person test engineering team overseeing quality assurance for enterprise freight operations platform and mobile applications. Architected and implemented company-wide test automation strategy.
     summary2: >-
       Engineered CI/CD tooling using Azure Pipelines SDK supporting .NET, Oracle
       and TIBCO deployments for a department 100 developers.
