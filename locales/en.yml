@@ -39,7 +39,7 @@ resume:
       chick-fil-a: Chick-fil-A
       night-manager: Night Manager
       title: First Job
-    job-title: Manager, Test Automation Architect/DevOps
+    job-title: Manager of Test Automation
   education:
     2001-pensacola-high-school: 2001 Pensacola High School
     2006-university-of-florida: 2006 University of Florida
@@ -56,25 +56,22 @@ resume:
     ci-cd-paradigms: CI/CD paradigms
     city-of-pensacola: City of Pensacola
     detail1: >-
-      Scaled automated regression testing capacity to 2,000+ daily tests (175+ hours/month) through Azure Pipelines, reducing manual testing effort by 80%.
+      Architected and implemented enterprise-wide test automation strategy and associated microservices infrastructure.
     detail10: >-
-      Relaunched Pensacola International Airport, City of Pensacola and
-      Pensacola Police Department websites.
+      Successfully delivered comprehensive website overhauls for major city institutions, modernizing digital services for Pensacola International Airport, City Government, and Police Department.
     detail11: Employee of the Month, August 2010.
     detail2: >-
-      Designed and implemented enterprise-wide CI/CD infrastructure and microservice architecture, achieving company-first automated deployments.
+      Scaled testing capacity to 2,000+ daily tests (175+ hours/month) through Azure Pipelines, reducing manual testing effort by 80%.
     detail3: >-
-      Designed and implemented enterprise-wide CI/CD infrastructure to achieve company-first automated code deployments.
+      Responsible for company-first code deployments of business-critical applications during working hours.
     detail4: >-
-      Designed standards and documentation for source control workflow, CI/CD,
-      and Git.
-    detail5: Lead developer of R+L Carriers Shipping Rates extension for WordPress.
+      Spearheaded adoption of standardized CI/CD practices and Git workflows across 12+ development teams.
+    detail5: >-
+      Engineered full-stack video learning management system in Laravel, featuring real-time streaming and interactive course modules.
     detail6: >-
-      Lead developer of YouImpact DUI Victim Awareness video e-learning
-      platform.
+      Developed and delivered a shipping calculator extension for R+L Carriers, enabling real-time rate estimation for WordPress e-commerce sites.
     detail7: >-
-      Lead developer of Navalimpianti USA, Inc cruise line compliance and safety
-      app.
+      Engineered maritime safety compliance platform optimized for shipboard operations, enabling real-time inspection and reporting from cruise vessel decks.
     detail8: >-
       Developed API integrations to county services for Public Works and Animal
       Shelter departments.
@@ -90,25 +87,21 @@ resume:
     present: Present
     professional-tools: Professional Tools
     public-sector: Public Sector
-    r-l-carriers: R+L Carriers
+    r-l-carriers: R+L Carriers, Global Transportation and Logistics
     september-2013-and-ndash-present: September 2013 \&ndash;\ Present
     static-languages: Static languages
     summary1: >-
-      Lead a 10-person test engineering team overseeing quality assurance for enterprise freight operations platform and mobile applications. Architected and implemented company-wide test automation strategy.
+      Engineering Manager with hands-on technical leadership of 10-person QA team, overseeing logistics operations testing across web and mobile platforms.
     summary2: >-
-      Engineered CI/CD tooling using Azure Pipelines SDK supporting .NET, Oracle
-      and TIBCO deployments for a department 100 developers.
+      Designed and implemented enterprise-wide CI/CD infrastructure and service architecture, cutting deployment time by 60%.
     summary3: >-
-      Internal start-up agency providing web and e-commerce solutions to freight
-      clients.
+      Led backend development of custom web applications and e-commerce platforms at a high-volume web agency, specializing in PHP applications.
     summary4: >-
-      Coordinated with the board, 25 departments and contractors to relaunch
-      MyEscambia.com.
+      Successfully delivered total rewrite of main county government website, integrating Public Works and Animal Shelter information systems.
     summary5: >-
-      Designed web front-ends and developed backend integrations to city
-      services.
+      Led comprehensive redesign and development of two critical municipal websites - Pensacola International Airport, City Government.
     title: Professional Experience
     tools: Tools
     web-development: Web development
-    web-it-coordinator: Web IT Coordinator
+    web-it-coordinator: Web Coordinator
     webmaster: Webmaster
