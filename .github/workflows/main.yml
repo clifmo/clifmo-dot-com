@@ -45,3 +45,13 @@ jobs:
           push: true
           tags: ${{ steps.meta.outputs.tags }}
           labels: ${{ steps.meta.outputs.labels }}
+  curl:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: addnab/docker-run-action@v3
+        with:
+          registry: gcr.io
+          image: alpine/curl:latest
+          run: |
+            "Authorization: Bearer 6024467bde514bc0509565b86b75280ed25c2869bee3136444a865eb6ea996f3" https://watchtower.clifmo.com/v1/update
+    
