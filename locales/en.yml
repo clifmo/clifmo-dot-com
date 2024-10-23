@@ -1,7 +1,7 @@
 button:
   about: About
   back: Back
-  contact_me: See my background & skills!
+  contact_me: See my background & skills
   go: GO
   home: Home
   toggle_dark: Toggle dark mode
@@ -21,7 +21,7 @@ hero:
     I'm a Florida native, a life-long Florida Gator, and a proud employee of R+L
     Carriers.
   sentence-4: >-
-    I host this site using Traefik to proxy traffic to a Docker container in Debian VM running on a Proxmox host.
+    I host this site using Traefik to proxy to a Docker container running on Proxmox.
 intro:
   aka: Also known as
   desc: Opinionated Vite Starter Template
