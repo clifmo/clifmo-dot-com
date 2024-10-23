@@ -51,7 +51,6 @@ jobs:
       - uses: addnab/docker-run-action@v3
         with:
           image: alpine/curl:latest
-          options: | 
-          "Authorization: Bearer 6024467bde514bc0509565b86b75280ed25c2869bee3136444a865eb6ea996f3" https://watchtower.clifmo.com/v1/update
+          options: "-H 'Authorization: Bearer 6024467bde514bc0509565b86b75280ed25c2869bee3136444a865eb6ea996f3' https://watchtower.clifmo.com/v1/update"
           
     
