@@ -31,27 +31,25 @@ jobs:
           username: ${{ secrets.DOCKER_USERNAME }}
           password: ${{ secrets.DOCKER_PASSWORD }}
       
-      - name: Extract metadata (tags, labels) for Docker
-        id: meta
-        uses: docker/metadata-action@9ec57ed1fcdbf14dcef7dfbe97b2010124a938b7
-        with:
-          images: clifmo/clifmodotcom
+      # - name: Extract metadata (tags, labels) for Docker
+      #   id: meta
+      #   uses: docker/metadata-action@9ec57ed1fcdbf14dcef7dfbe97b2010124a938b7
+      #   with:
+      #     images: clifmo/clifmodotcom
       
-      - name: Build and push Docker image
-        uses: docker/build-push-action@3b5e8027fcad23fda98b2e3ac259d8d67585f671
-        with:
-          context: .
-          file: ./Dockerfile
-          push: true
-          tags: ${{ steps.meta.outputs.tags }}
-          labels: ${{ steps.meta.outputs.labels }}
-  curl:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: addnab/docker-run-action@v3
+      # - name: Build and push Docker image
+      #   uses: docker/build-push-action@3b5e8027fcad23fda98b2e3ac259d8d67585f671
+      #   with:
+      #     context: .
+      #     file: ./Dockerfile
+      #     push: true
+      #     tags: ${{ steps.meta.outputs.tags }}
+      #     labels: ${{ steps.meta.outputs.labels }}
+      - name: Notify watchtower
+        uses: addnab/docker-run-action@v3
         with:
           image: alpine/curl:latest
-          command: |
-            curl -H 'Authorization: Bearer 6024467bde514bc0509565b86b75280ed25c2869bee3136444a865eb6ea996f3' https://watchtower.clifmo.com/v1/update
-          
+          run: |
+              curl -H 'Authorization: Bearer 6024467bde514bc0509565b86b75280ed25c2869bee3136444a865eb6ea996f3' https://watchtower.clifmo.com/v1/update
+            
     
