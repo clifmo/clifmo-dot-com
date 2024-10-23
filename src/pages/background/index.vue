@@ -29,7 +29,7 @@
           <div class="flex items-center my-3">
             <div class="i-carbon-email mr-2" />
 
-            <a href="mailto:ClifMo@ClifMo.com">ClifMo@ClifMo.com</a>
+            <a href="mailto:clifmo@gmail.com">clifmo@gmail.com</a>
           </div>
           <div class="flex items-center my-3">
             <div class="i-carbon-phone mr-2" />
