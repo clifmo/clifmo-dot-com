@@ -45,6 +45,11 @@ jobs:
       #     push: true
       #     tags: ${{ steps.meta.outputs.tags }}
       #     labels: ${{ steps.meta.outputs.labels }}
+  notify_watchtower:
+    name: Notify watchtower of new Docker image
+    runs-on: ubuntu-latest
+    needs: push_to_registry
+    steps:
       - name: Notify watchtower
         uses: addnab/docker-run-action@v3
         with:
